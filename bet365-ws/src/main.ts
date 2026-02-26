@@ -5,20 +5,24 @@ import { TennisStateManager, formatMatchSummary, formatUpdate } from "./parser.j
 
 type AnyObj = Record<string, any>;
 
+const NAME_FILTER = undefined;
+
 const WS_FILTER = "premws-pt1.us.365lpodds.com";
 const LOGS_DIR = path.join(process.cwd(), "logs");
+const MATCH_LOGS_DIR = path.join(LOGS_DIR, "matches");
 
 // Tennis state manager - parses WS messages into structured match data
 const tennis = new TennisStateManager();
 
 function sanitizeForFilename(s: string): string {
-  return s.replace(/[/:?&=.]+/g, "_").slice(0, 100);
+  return s.replace(/[/:?&=.]+/g, "_").replace(/\s+/g, "_").toLowerCase().slice(0, 100);
 }
 
 async function main() {
   const port = 9222;
 
   fs.mkdirSync(LOGS_DIR, { recursive: true });
+  fs.mkdirSync(MATCH_LOGS_DIR, { recursive: true });
 
   const version = await CDP.Version({ port });
   const browserWs = (version as any).webSocketDebuggerUrl as string | undefined;
@@ -33,6 +37,8 @@ async function main() {
   const trackedIds = new Set<string>();
   // requestId -> WriteStream
   const wsStreams = new Map<string, fs.WriteStream>();
+  // eventId -> WriteStream for per-match score logs
+  const matchStreams = new Map<string, fs.WriteStream>();
 
   function trackId(requestId: string, url: string) {
     if (!url.includes(WS_FILTER)) return;
@@ -62,13 +68,26 @@ async function main() {
     const payload = params.response.payloadData;
     const line = `${new Date().toISOString()} RECV ${payload}\n`;
     wsStreams.get(params.requestId)?.write(line);
-    console.log("WS recv", payload.slice(0, 120));
+    // console.log("WS recv", payload.slice(0, 120));
 
     // Parse tennis data from incoming messages
     try {
       const updates = tennis.processMessage(payload);
       for (const update of updates) {
-        console.log(formatUpdate(update));
+        const formatted = formatUpdate(update, NAME_FILTER, false);
+        formatted && console.log(formatted);
+
+        // Log score updates to per-match files
+        if (update.type === "score") {
+          if (!matchStreams.has(update.eventId)) {
+            const fname = sanitizeForFilename(update.match.name) + ".log";
+            const fpath = path.join(MATCH_LOGS_DIR, fname);
+            matchStreams.set(update.eventId, fs.createWriteStream(fpath, { flags: "a" }));
+          }
+          const server = update.match.serving === 1 ? update.match.player1 : update.match.player2;
+          const line = `${new Date().toISOString()}  (serving: ${server}) ${update.changes.join(", ")}\n`;
+          matchStreams.get(update.eventId)!.write(line);
+        }
       }
     } catch (e) {
       console.error("Parser error:", e);
@@ -89,6 +108,9 @@ async function main() {
     wsStreams.get(params.requestId)?.end();
     wsStreams.delete(params.requestId);
     trackedIds.delete(params.requestId);
+    // Close all per-match log streams
+    for (const stream of matchStreams.values()) stream.end();
+    matchStreams.clear();
   });
 
   // When Chrome auto-attaches to a NEW target, enable Network in it
@@ -141,6 +163,7 @@ async function main() {
   console.log("Refresh bet365 now.");
 
   // Periodically log a summary of all live tennis matches
+  /*
   setInterval(() => {
     const live = tennis.getLiveMatches();
     if (live.length === 0) return;
@@ -150,6 +173,7 @@ async function main() {
     }
     console.log("");
   }, 30_000);
+  */
 
   await new Promise(() => {});
 }

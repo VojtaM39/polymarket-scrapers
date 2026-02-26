@@ -298,11 +298,11 @@ export function fractionalToDecimal(odds: string): number {
   return n / d + 1;
 }
 
-/** Parse server from PI field "1,0" → 1=p1, 2=p2 */
+/** Parse server from PI field: first digit 0=P2 serving, 1=P1 serving */
 function parseServing(pi: string): 1 | 2 {
   if (!pi) return 1;
   const first = pi.split(",")[0];
-  return first === "1" ? 2 : 1;
+  return first === "1" ? 1 : 2;
 }
 
 /** Detect if a match is doubles from the name */
@@ -642,7 +642,20 @@ export function formatMatchSummary(m: TennisMatch): string {
 }
 
 /** Format an update for logging */
-export function formatUpdate(update: MatchUpdate): string {
+export function formatUpdate(update: MatchUpdate, playerFilter: string | undefined, passOdds: boolean): string | null {
+  if (
+        !!playerFilter
+        && !update.match.player1.includes(playerFilter)
+        && !update.match.player2.includes(playerFilter)
+    ) {
+        return null;
+    }
+  if (update.type === 'odds' && !passOdds) {
+        return null;
+    }
+
   const prefix = update.type === "score" ? "SCORE" : update.type === "odds" ? "ODDS" : "DEL";
-  return `[${prefix}] ${update.match.name}: ${update.changes.join(", ")}`;
+  const server = update.match.serving === 1 ? update.match.player1 : update.match.player2;
+  const ts = new Date().toISOString().slice(11, 23);
+  return `${ts} [${prefix}] ${update.match.name} (serving: ${server}): ${update.changes.join(", ")}`;
 }
