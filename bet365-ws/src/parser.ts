@@ -1,8 +1,9 @@
 /**
- * Bet365 WebSocket Tennis Parser
+ * Bet365 WebSocket Multi-Sport Parser
  *
  * Parses the bet365 custom pipe-delimited protocol and extracts
- * live tennis match state including scores, odds, and match metadata.
+ * live match state including scores, odds, and match metadata
+ * for multiple sports.
  *
  * Protocol delimiters:
  *   | (pipe)     → separates segments within a message
@@ -13,28 +14,52 @@
  *   ~ (tilde)    → separates sub-values within a field
  */
 
+// ── Sport registry ───────────────────────────────────────────────────────
+
+export interface SportConfig {
+  name: string;
+  folder: string;
+  nameSeparators: string[];
+  usesSetScoring: boolean;
+  hasServing: boolean;
+  hasPointScore: boolean;
+}
+
+export const SPORT_REGISTRY: Record<string, SportConfig> = {
+  "1":   { name: "Soccer",       folder: "soccer",            nameSeparators: [" v ", " vs "],             usesSetScoring: false, hasServing: false, hasPointScore: false },
+  "12":  { name: "Football",     folder: "american-football", nameSeparators: [" @ ", " v "],              usesSetScoring: false, hasServing: false, hasPointScore: false },
+  "13":  { name: "Tennis",       folder: "tennis",            nameSeparators: [" v "],                     usesSetScoring: true,  hasServing: true,  hasPointScore: true  },
+  "14":  { name: "Snooker",      folder: "snooker",           nameSeparators: [" v "],                     usesSetScoring: true,  hasServing: false, hasPointScore: false },
+  "17":  { name: "Hockey",       folder: "hockey",            nameSeparators: [" @ ", " v ", " vs "],      usesSetScoring: false, hasServing: false, hasPointScore: false },
+  "18":  { name: "Basketball",   folder: "basketball",        nameSeparators: [" @ ", " vs ", " v "],      usesSetScoring: false, hasServing: false, hasPointScore: false },
+  "92":  { name: "Table Tennis", folder: "table-tennis",      nameSeparators: [" v "],                     usesSetScoring: true,  hasServing: true,  hasPointScore: true  },
+};
+
 // ── Types ──────────────────────────────────────────────────────────────────
 
-export interface TennisMatch {
+export interface SportMatch {
   eventId: string;
   fixtureId: string;
-  itemId: string; // full OV...C13A_32_0 identifier
+  itemId: string;
   name: string;
-  player1: string;
-  player2: string;
+  sportId: string;
+  sportName: string;
+  team1: string;
+  team2: string;
   tournament: string;
   tournamentCode: string;
   status: "pre-match" | "in-play";
-  isDoubles: boolean;
-  /** 1 = player1 serving, 2 = player2 serving */
-  serving: 1 | 2;
-  /** Per-set scores: [[p1games, p2games], ...] */
+  /** Raw SS field value */
+  scoreRaw: string;
+  /** Per-set scores for set-based sports */
   sets: [number, number][];
-  /** Current game point score */
+  /** Current game/point score for sports that use it */
   currentGame: { p1: string; p2: string };
+  /** 0 = N/A, 1 = team1 serving, 2 = team2 serving */
+  serving: 0 | 1 | 2;
   markets: Map<string, Market>;
   lastUpdated: string;
-  scheduledStart: number; // unix timestamp
+  scheduledStart: number;
 }
 
 export interface Market {
@@ -48,7 +73,7 @@ export interface Selection {
   id: string;
   odds: string; // fractional e.g. "9/2"
   oddsDecimal: number;
-  /** 0 = player1, 1 = player2 */
+  /** 0 = player1/home, 1 = player2/away, 2 = draw */
   position: number;
   suspended: boolean;
 }
@@ -65,8 +90,6 @@ export interface ParsedSegment {
   /** Parsed key-value fields */
   fields: Record<string, string>;
 }
-
-const TENNIS_CATEGORY = "13";
 
 // ── Low-level parsers ──────────────────────────────────────────────────────
 
@@ -99,7 +122,6 @@ function detectRecordType(fields: Record<string, string>): RecordType {
 
 /** Parse a full OV item ID to extract info */
 export function parseItemId(id: string): {
-  isTennis: boolean;
   eventId: string;
   categoryId: string;
   fixtureId: string;
@@ -108,7 +130,6 @@ export function parseItemId(id: string): {
   type: "event" | "market" | "selection" | "unknown";
 } {
   const result = {
-    isTennis: false,
     eventId: "",
     categoryId: "",
     fixtureId: "",
@@ -126,7 +147,6 @@ export function parseItemId(id: string): {
     result.type = "event";
     result.eventId = evMatch[1];
     result.categoryId = evMatch[2];
-    result.isTennis = result.categoryId === TENNIS_CATEGORY;
     return result;
   }
 
@@ -137,7 +157,6 @@ export function parseItemId(id: string): {
     result.eventId = maMatch[1];
     result.categoryId = maMatch[2];
     result.marketNum = maMatch[3];
-    result.isTennis = result.categoryId === TENNIS_CATEGORY;
     return result;
   }
 
@@ -305,26 +324,32 @@ function parseServing(pi: string): 1 | 2 {
   return first === "1" ? 1 : 2;
 }
 
-/** Detect if a match is doubles from the name */
-function isDoubles(name: string): boolean {
-  return name.includes("/");
-}
-
-/** Split "Player1 v Player2" into [player1, player2] */
-function parsePlayers(name: string): [string, string] {
-  const parts = name.split(" v ");
-  if (parts.length === 2) return [parts[0].trim(), parts[1].trim()];
-  // Fallback: split on " @ " (used for other sports but just in case)
-  const atParts = name.split(" @ ");
-  if (atParts.length === 2) return [atParts[0].trim(), atParts[1].trim()];
+/** Split team/player names using sport-specific separators */
+function parseTeams(name: string, sportId: string): [string, string] {
+  const config = SPORT_REGISTRY[sportId];
+  if (config) {
+    for (const sep of config.nameSeparators) {
+      const idx = name.indexOf(sep);
+      if (idx !== -1) {
+        return [name.slice(0, idx).trim(), name.slice(idx + sep.length).trim()];
+      }
+    }
+  }
+  // Fallback: try common separators
+  for (const sep of [" v ", " vs ", " @ "]) {
+    const idx = name.indexOf(sep);
+    if (idx !== -1) {
+      return [name.slice(0, idx).trim(), name.slice(idx + sep.length).trim()];
+    }
+  }
   return [name, ""];
 }
 
 // ── State manager ──────────────────────────────────────────────────────────
 
-export class TennisStateManager {
-  /** eventId → TennisMatch */
-  matches = new Map<string, TennisMatch>();
+export class StateManager {
+  /** eventId → SportMatch */
+  matches = new Map<string, SportMatch>();
 
   /** fixtureId → eventId (reverse lookup for odds updates) */
   private fixtureToEvent = new Map<string, string>();
@@ -335,11 +360,12 @@ export class TennisStateManager {
   /** itemId → eventId (for incremental updates targeting event records) */
   private itemToEvent = new Map<string, string>();
 
-  /** Track current tournament context during full dump parsing */
+  /** Track current context during full dump parsing */
   private currentTournament = "";
   private currentTournamentCode = "";
   private currentCategory = "";
-  private inTennisSection = false;
+  private currentSportId = "";
+  private inSupportedSport = false;
   private lastEventId = "";
 
   /**
@@ -393,14 +419,14 @@ export class TennisStateManager {
   }
 
   private processFullDump(segments: ParsedSegment[], isGlobalDump: boolean) {
-    this.inTennisSection = false;
+    this.inSupportedSport = false;
+    this.currentSportId = "";
     this.currentTournament = "";
     this.currentTournamentCode = "";
     this.currentCategory = "";
     this.lastEventId = "";
 
     if (isGlobalDump) {
-      // Only clear state for the global InPlay subscription
       this.matches.clear();
       this.fixtureToEvent.clear();
       this.selectionInfo.clear();
@@ -412,18 +438,19 @@ export class TennisStateManager {
       const rt = seg.recordType;
 
       if (rt === "CL") {
-        // Sport category - check if we're entering Tennis
-        this.inTennisSection = f.CL === TENNIS_CATEGORY;
+        this.currentSportId = f.CL || "";
+        this.inSupportedSport = !!SPORT_REGISTRY[this.currentSportId];
         continue;
       }
 
-      // For match-detail subscriptions (6V, 151...), EV records carry CL=13
+      // For match-detail subscriptions (6V, 151...), EV records carry CL
       // without a preceding CL record
-      if (rt === "EV" && f.CL === TENNIS_CATEGORY) {
-        this.inTennisSection = true;
+      if (rt === "EV" && f.CL && SPORT_REGISTRY[f.CL]) {
+        this.currentSportId = f.CL;
+        this.inSupportedSport = true;
       }
 
-      if (!this.inTennisSection) continue;
+      if (!this.inSupportedSport) continue;
 
       if (rt === "CT") {
         this.currentTournament = f.NA || "";
@@ -436,21 +463,27 @@ export class TennisStateManager {
         const eventId = this.extractEventId(f.ID || "");
         if (!eventId) continue;
 
-        const [p1, p2] = parsePlayers(f.NA || "");
-        const match: TennisMatch = {
+        const sportId = f.CL || this.currentSportId;
+        const sportConfig = SPORT_REGISTRY[sportId];
+        if (!sportConfig) continue;
+
+        const [t1, t2] = parseTeams(f.NA || "", sportId);
+        const match: SportMatch = {
           eventId,
           fixtureId: f.OI || "",
           itemId: f.IT || f.ID || "",
           name: f.NA || "",
-          player1: p1,
-          player2: p2,
+          sportId,
+          sportName: sportConfig.name,
+          team1: t1,
+          team2: t2,
           tournament: f.CT || this.currentTournament,
           tournamentCode: f.CC || this.currentTournamentCode,
           status: f.ES === "" || f.ES === undefined ? "pre-match" : "in-play",
-          isDoubles: isDoubles(f.NA || ""),
-          serving: parseServing(f.PI),
-          sets: parseSetScores(f.SS),
-          currentGame: parsePointScore(f.XP),
+          scoreRaw: f.SS || "",
+          sets: sportConfig.usesSetScoring ? parseSetScores(f.SS) : [],
+          currentGame: sportConfig.hasPointScore ? parsePointScore(f.XP) : { p1: "0", p2: "0" },
+          serving: sportConfig.hasServing ? parseServing(f.PI) : 0,
           markets: new Map(),
           lastUpdated: f.TU || "",
           scheduledStart: parseInt(f.SM, 10) || 0,
@@ -515,29 +548,37 @@ export class TennisStateManager {
     const itemId = seg.header.replace(/[UD]$/, "");
     const f = seg.fields;
 
-    // Try to resolve this to a tennis match
-    // 1. Direct event update (OV<eventId>C13A_32_0U)
+    // 1. Direct event update (OV<eventId>C<catId>A_32_0U)
     const parsedId = parseItemId(itemId);
 
-    if (parsedId.type === "event" && parsedId.isTennis) {
+    if (parsedId.type === "event") {
+      const sportConfig = SPORT_REGISTRY[parsedId.categoryId];
+      if (!sportConfig) return null;
+
       const match = this.matches.get(parsedId.eventId);
       if (!match) return null;
 
       const changes: string[] = [];
 
       if (f.SS !== undefined) {
-        const oldSets = match.sets.map((s) => s.join("-")).join(",");
-        match.sets = parseSetScores(f.SS);
-        const newSets = match.sets.map((s) => s.join("-")).join(",");
-        if (oldSets !== newSets) changes.push(`sets: ${newSets}`);
+        const oldScore = match.scoreRaw;
+        match.scoreRaw = f.SS;
+        if (sportConfig.usesSetScoring) {
+          const oldSets = match.sets.map((s) => s.join("-")).join(",");
+          match.sets = parseSetScores(f.SS);
+          const newSets = match.sets.map((s) => s.join("-")).join(",");
+          if (oldSets !== newSets) changes.push(`sets: ${newSets}`);
+        } else if (oldScore !== f.SS) {
+          changes.push(`score: ${f.SS}`);
+        }
       }
-      if (f.XP !== undefined) {
+      if (f.XP !== undefined && sportConfig.hasPointScore) {
         const oldGame = `${match.currentGame.p1}-${match.currentGame.p2}`;
         match.currentGame = parsePointScore(f.XP);
         const newGame = `${match.currentGame.p1}-${match.currentGame.p2}`;
         if (oldGame !== newGame) changes.push(`game: ${newGame}`);
       }
-      if (f.PI !== undefined) {
+      if (f.PI !== undefined && sportConfig.hasServing) {
         const oldServing = match.serving;
         match.serving = parseServing(f.PI);
         if (oldServing !== match.serving) changes.push(`serving: P${match.serving}`);
@@ -576,8 +617,8 @@ export class TennisStateManager {
               const oldOdds = sel.odds;
               sel.odds = f.OD;
               sel.oddsDecimal = fractionalToDecimal(f.OD);
-              const playerName = sel.position === 0 ? match.player1 : match.player2;
-              changes.push(`${playerName}: ${oldOdds} → ${f.OD}`);
+              const teamName = sel.position === 0 ? match.team1 : sel.position === 1 ? match.team2 : "Draw";
+              changes.push(`${teamName}: ${oldOdds} → ${f.OD}`);
             }
             if (f.SU !== undefined) {
               sel.suspended = f.SU === "1";
@@ -601,61 +642,78 @@ export class TennisStateManager {
     return m ? m[1] : "";
   }
 
-  /** Get all currently tracked tennis matches */
-  getAllMatches(): TennisMatch[] {
+  getAllMatches(): SportMatch[] {
     return Array.from(this.matches.values());
   }
 
-  /** Get only in-play matches */
-  getLiveMatches(): TennisMatch[] {
+  getLiveMatches(): SportMatch[] {
     return this.getAllMatches().filter((m) => m.status === "in-play");
+  }
+
+  getMatchesBySport(sportId: string): SportMatch[] {
+    return this.getAllMatches().filter((m) => m.sportId === sportId);
   }
 }
 
 export interface MatchUpdate {
   type: "score" | "odds" | "delete";
   eventId: string;
-  match: TennisMatch;
+  match: SportMatch;
   changes: string[];
 }
 
 // ── Formatting helpers ─────────────────────────────────────────────────────
 
 /** Format a match state as a compact one-line summary */
-export function formatMatchSummary(m: TennisMatch): string {
-  const setsStr = m.sets.map(([a, b]) => `${a}-${b}`).join(" ");
-  const gameStr = `(${m.currentGame.p1}-${m.currentGame.p2})`;
-  const servingMark = m.serving === 1 ? "*" : "";
+export function formatMatchSummary(m: SportMatch): string {
+  const config = SPORT_REGISTRY[m.sportId];
+  let scoreStr = m.scoreRaw;
+
+  if (config?.usesSetScoring && m.sets.length > 0) {
+    scoreStr = m.sets.map(([a, b]) => `${a}-${b}`).join(" ");
+    if (config.hasPointScore) {
+      scoreStr += ` (${m.currentGame.p1}-${m.currentGame.p2})`;
+    }
+  }
+
+  const servingMark1 = m.serving === 1 ? "*" : "";
   const servingMark2 = m.serving === 2 ? "*" : "";
 
   let oddsStr = "";
-  const moneyLine = m.markets.get("1763");
-  if (moneyLine && moneyLine.selections.length >= 2) {
-    const sorted = [...moneyLine.selections].sort((a, b) => a.position - b.position);
-    oddsStr = ` | ${sorted[0].odds} / ${sorted[1].odds}`;
+  // Try first market with 2+ selections as money line
+  for (const market of m.markets.values()) {
+    if (market.selections.length >= 2) {
+      const sorted = [...market.selections].sort((a, b) => a.position - b.position);
+      if (sorted.length >= 3) {
+        // 3-way market (1X2): home / draw / away
+        oddsStr = ` | ${sorted[0].odds} / ${sorted[2].odds} / ${sorted[1].odds}`;
+      } else {
+        oddsStr = ` | ${sorted[0].odds} / ${sorted[1].odds}`;
+      }
+      break;
+    }
   }
 
   return (
-    `[${m.tournament}] ${servingMark}${m.player1} v ${servingMark2}${m.player2}` +
-    ` | ${setsStr} ${gameStr}${oddsStr}`
+    `[${m.sportName}/${m.tournament}] ${servingMark1}${m.team1} v ${servingMark2}${m.team2}` +
+    ` | ${scoreStr}${oddsStr}`
   );
 }
 
 /** Format an update for logging */
-export function formatUpdate(update: MatchUpdate, playerFilter: string | undefined, passOdds: boolean): string | null {
+export function formatUpdate(update: MatchUpdate, nameFilter: string | undefined, passOdds: boolean): string | null {
   if (
-        !!playerFilter
-        && !update.match.player1.includes(playerFilter)
-        && !update.match.player2.includes(playerFilter)
-    ) {
-        return null;
-    }
-  if (update.type === 'odds' && !passOdds) {
-        return null;
-    }
+    !!nameFilter
+    && !update.match.team1.includes(nameFilter)
+    && !update.match.team2.includes(nameFilter)
+  ) {
+    return null;
+  }
+  if (update.type === "odds" && !passOdds) {
+    return null;
+  }
 
-  const prefix = update.type === "score" ? "SCORE" : update.type === "odds" ? "ODDS" : "DEL";
-  const server = update.match.serving === 1 ? update.match.player1 : update.match.player2;
+  const prefix = update.type === "score" ? "EVENT" : update.type === "odds" ? "ODDS" : "DEL";
   const ts = new Date().toISOString().slice(11, 23);
-  return `${ts} [${prefix}] ${update.match.name} (serving: ${server}): ${update.changes.join(", ")}`;
+  return `${ts} [${prefix}] [${update.match.sportName}] ${update.match.name}: ${update.changes.join(", ")}`;
 }
