@@ -1,0 +1,17 @@
+{
+	"actorSpecification": 1,
+	"name": "bet365-pupp",
+	"title": "Project Puppeteer Crawler Typescript",
+	"description": "Crawlee and Puppeteer project in typescript.",
+	"version": "0.0",
+	"meta": {
+		"templateId": "ts-crawlee-puppeteer-chrome",
+		"generatedBy": "<FILL-IN-MODEL>"
+	},
+	"input": "./input_schema.json",
+	"output": "./output_schema.json",
+	"storages": {
+		"dataset": "./dataset_schema.json"
+	},
+	"dockerfile": "../Dockerfile"
+}

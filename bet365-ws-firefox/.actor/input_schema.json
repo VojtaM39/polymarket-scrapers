@@ -1,0 +1,15 @@
+{
+    "title": "Bet365 WS Interceptor",
+    "type": "object",
+    "schemaVersion": 1,
+    "properties": {
+        "url": {
+            "title": "Page URL",
+            "type": "string",
+            "description": "Bet365 event page URL to intercept WebSocket messages from.",
+            "editor": "textfield",
+            "prefill": "https://www.bet365.com/#/IP/EV151304775475C13"
+        }
+    },
+    "required": ["url"]
+}

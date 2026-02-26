@@ -1,0 +1,17 @@
+{
+	"actorSpecification": 1,
+	"name": "bet365-ws",
+	"title": "Project Playwright Crawler Typescript",
+	"description": "Crawlee and Playwright project in typescript.",
+	"version": "0.0",
+	"meta": {
+		"templateId": "ts-crawlee-playwright-webkit",
+		"generatedBy": "Claude Code with Claude Opus 4.6"
+	},
+	"input": "./input_schema.json",
+	"output": "./output_schema.json",
+	"storages": {
+		"dataset": "./dataset_schema.json"
+	},
+	"dockerfile": "../Dockerfile"
+}
