@@ -77,8 +77,8 @@ async function main() {
         const formatted = formatUpdate(update, NAME_FILTER, false);
         formatted && console.log(formatted);
 
-        // Log score updates to per-match files
-        if (update.type === "score") {
+        // Log score and odds updates to per-match files
+        if (update.type === "score" || update.type === "odds") {
           if (!matchStreams.has(update.eventId)) {
             const fname = sanitizeForFilename(update.match.name) + ".log";
             const fpath = path.join(MATCH_LOGS_DIR, fname);
