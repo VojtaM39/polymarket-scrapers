@@ -1,0 +1,283 @@
+2026-02-27T00:08:54.117Z [EVENT] (serving: Yibing Wu)  serving: P1
+2026-02-27T00:11:13.927Z [ODDS] (serving: Yibing Wu)  Yibing Wu: 8/11 → 4/6, Flavio Cobolli: 11/10 → 6/5
+2026-02-27T00:11:13.927Z [EVENT] (serving: Yibing Wu)  game: 15-0
+2026-02-27T00:11:45.948Z [ODDS] (serving: Yibing Wu)  Yibing Wu: 4/6 → 8/11, Flavio Cobolli: 6/5 → 11/10
+2026-02-27T00:11:45.948Z [EVENT] (serving: Yibing Wu)  game: 15-15
+2026-02-27T00:12:20.225Z [ODDS] (serving: Yibing Wu)  Yibing Wu: 8/11 → 4/6, Flavio Cobolli: 11/10 → 6/5
+2026-02-27T00:12:20.225Z [EVENT] (serving: Yibing Wu)  game: 30-15
+2026-02-27T00:12:55.403Z [ODDS] (serving: Yibing Wu)  Yibing Wu: 4/6 → 8/13, Flavio Cobolli: 6/5 → 13/10
+2026-02-27T00:12:55.854Z [ODDS] (serving: Yibing Wu)  Yibing Wu: 8/13 → 4/7, Flavio Cobolli: 13/10 → 11/8
+2026-02-27T00:12:57.207Z [ODDS] (serving: Yibing Wu)  Yibing Wu: 4/7 → 4/6, Flavio Cobolli: 11/8 → 6/5
+2026-02-27T00:13:03.521Z [ODDS] (serving: Yibing Wu)  Yibing Wu: 4/6 → 8/11, Flavio Cobolli: 6/5 → 11/10
+2026-02-27T00:13:03.521Z [EVENT] (serving: Yibing Wu)  game: 30-30
+2026-02-27T00:13:31.483Z [ODDS] (serving: Yibing Wu)  Yibing Wu: 8/11 → 4/6, Flavio Cobolli: 11/10 → 6/5
+2026-02-27T00:13:31.483Z [EVENT] (serving: Yibing Wu)  game: 40-30
+2026-02-27T00:14:13.427Z [ODDS] (serving: Yibing Wu)  Yibing Wu: 4/6 → 4/5, Flavio Cobolli: 6/5 → 1/1
+2026-02-27T00:14:13.427Z [EVENT] (serving: Yibing Wu)  game: 40-40
+2026-02-27T00:15:02.139Z [ODDS] (serving: Yibing Wu)  Yibing Wu: 4/5 → 4/6, Flavio Cobolli: 1/1 → 6/5
+2026-02-27T00:15:02.139Z [EVENT] (serving: Yibing Wu)  game: A-40
+2026-02-27T00:15:30.099Z [ODDS] (serving: Yibing Wu)  Yibing Wu: 4/6 → 8/11, Flavio Cobolli: 6/5 → 11/10
+2026-02-27T00:15:43.629Z [ODDS] (serving: Flavio Cobolli)  Yibing Wu: 8/11 → 4/6, Flavio Cobolli: 11/10 → 6/5
+2026-02-27T00:15:43.629Z [EVENT] (serving: Flavio Cobolli)  sets: 1-0, game: 0-0, serving: P2
+2026-02-27T00:16:49.926Z [ODDS] (serving: Flavio Cobolli)  Yibing Wu: 4/6 → 8/13, Flavio Cobolli: 6/5 → 13/10
+2026-02-27T00:17:03.907Z [ODDS] (serving: Flavio Cobolli)  Yibing Wu: 8/13 → 4/6, Flavio Cobolli: 13/10 → 6/5
+2026-02-27T00:17:19.694Z [ODDS] (serving: Flavio Cobolli)  Yibing Wu: 4/6 → 4/7, Flavio Cobolli: 6/5 → 11/8
+2026-02-27T00:17:19.694Z [EVENT] (serving: Flavio Cobolli)  game: 15-0
+2026-02-27T00:17:44.046Z [ODDS] (serving: Flavio Cobolli)  Yibing Wu: 4/7 → 8/13, Flavio Cobolli: 11/8 → 13/10
+2026-02-27T00:17:44.046Z [EVENT] (serving: Flavio Cobolli)  game: 15-15
+2026-02-27T00:18:07.498Z [ODDS] (serving: Flavio Cobolli)  Yibing Wu: 8/13 → 4/6, Flavio Cobolli: 13/10 → 6/5
+2026-02-27T00:18:07.498Z [EVENT] (serving: Flavio Cobolli)  game: 15-30
+2026-02-27T00:18:41.325Z [ODDS] (serving: Flavio Cobolli)  Yibing Wu: 4/6 → 8/13, Flavio Cobolli: 6/5 → 13/10
+2026-02-27T00:18:41.325Z [EVENT] (serving: Flavio Cobolli)  game: 30-30
+2026-02-27T00:19:07.484Z [ODDS] (serving: Flavio Cobolli)  Yibing Wu: 8/13 → 4/6, Flavio Cobolli: 13/10 → 6/5
+2026-02-27T00:19:07.484Z [EVENT] (serving: Flavio Cobolli)  game: 30-40
+2026-02-27T00:19:32.739Z [ODDS] (serving: Yibing Wu)  Yibing Wu: 4/6 → 8/11, Flavio Cobolli: 6/5 → 11/10
+2026-02-27T00:19:32.739Z [EVENT] (serving: Yibing Wu)  sets: 1-1, game: 0-0, serving: P1
+2026-02-27T00:20:19.642Z [ODDS] (serving: Yibing Wu)  Yibing Wu: 8/11 → 4/6, Flavio Cobolli: 11/10 → 6/5
+2026-02-27T00:20:19.642Z [EVENT] (serving: Yibing Wu)  game: 15-0
+2026-02-27T00:20:44.901Z [ODDS] (serving: Yibing Wu)  Yibing Wu: 4/6 → 8/13, Flavio Cobolli: 6/5 → 13/10
+2026-02-27T00:20:44.901Z [EVENT] (serving: Yibing Wu)  game: 30-0
+2026-02-27T00:21:07.900Z [ODDS] (serving: Yibing Wu)  Yibing Wu: 8/13 → 4/6, Flavio Cobolli: 13/10 → 6/5
+2026-02-27T00:21:07.900Z [EVENT] (serving: Yibing Wu)  game: 30-15
+2026-02-27T00:21:57.058Z [ODDS] (serving: Yibing Wu)  Yibing Wu: 4/6 → 8/13, Flavio Cobolli: 6/5 → 13/10
+2026-02-27T00:21:57.058Z [EVENT] (serving: Yibing Wu)  game: 40-15
+2026-02-27T00:22:23.669Z [EVENT] (serving: Flavio Cobolli)  sets: 2-1, game: 0-0, serving: P2
+2026-02-27T00:24:42.127Z [ODDS] (serving: Flavio Cobolli)  Yibing Wu: 8/13 → 4/6, Flavio Cobolli: 13/10 → 6/5
+2026-02-27T00:24:42.127Z [EVENT] (serving: Flavio Cobolli)  game: 0-15
+2026-02-27T00:25:10.540Z [ODDS] (serving: Flavio Cobolli)  Yibing Wu: 4/6 → 8/11, Flavio Cobolli: 6/5 → 11/10
+2026-02-27T00:25:10.540Z [EVENT] (serving: Flavio Cobolli)  game: 0-30
+2026-02-27T00:25:31.736Z [EVENT] (serving: Flavio Cobolli)  game: 0-40
+2026-02-27T00:26:06.018Z [ODDS] (serving: Yibing Wu)  Yibing Wu: 8/11 → 4/5, Flavio Cobolli: 11/10 → 1/1
+2026-02-27T00:26:06.018Z [EVENT] (serving: Yibing Wu)  sets: 2-2, game: 0-0, serving: P1
+2026-02-27T00:26:46.176Z [ODDS] (serving: Yibing Wu)  Yibing Wu: 4/5 → 8/11, Flavio Cobolli: 1/1 → 11/10
+2026-02-27T00:26:46.176Z [EVENT] (serving: Yibing Wu)  game: 15-0
+2026-02-27T00:27:24.493Z [ODDS] (serving: Yibing Wu)  Yibing Wu: 8/11 → 4/5, Flavio Cobolli: 11/10 → 1/1
+2026-02-27T00:27:24.493Z [EVENT] (serving: Yibing Wu)  game: 15-15
+2026-02-27T00:28:06.972Z [ODDS] (serving: Yibing Wu)  Yibing Wu: 4/5 → 8/11, Flavio Cobolli: 1/1 → 11/10
+2026-02-27T00:28:06.972Z [EVENT] (serving: Yibing Wu)  game: 30-15
+2026-02-27T00:28:48.835Z [ODDS] (serving: Yibing Wu)  Yibing Wu: 8/11 → 4/6, Flavio Cobolli: 11/10 → 6/5
+2026-02-27T00:28:48.835Z [EVENT] (serving: Yibing Wu)  game: 40-15
+2026-02-27T00:29:14.986Z [EVENT] (serving: Flavio Cobolli)  sets: 3-2, game: 0-0, serving: P2
+2026-02-27T00:31:26.685Z [ODDS] (serving: Flavio Cobolli)  Yibing Wu: 4/6 → 4/7, Flavio Cobolli: 6/5 → 11/8
+2026-02-27T00:31:26.685Z [EVENT] (serving: Flavio Cobolli)  game: 15-0
+2026-02-27T00:31:53.291Z [ODDS] (serving: Flavio Cobolli)  Yibing Wu: 4/7 → 8/13, Flavio Cobolli: 11/8 → 13/10
+2026-02-27T00:31:53.291Z [EVENT] (serving: Flavio Cobolli)  game: 15-15
+2026-02-27T00:33:03.220Z [ODDS] (serving: Flavio Cobolli)  Yibing Wu: 8/13 → 8/15, Flavio Cobolli: 13/10 → 6/4
+2026-02-27T00:33:03.220Z [EVENT] (serving: Flavio Cobolli)  game: 30-15
+2026-02-27T00:33:37.924Z [ODDS] (serving: Flavio Cobolli)  Yibing Wu: 8/15 → 1/2, Flavio Cobolli: 6/4 → 13/8
+2026-02-27T00:33:49.199Z [ODDS] (serving: Flavio Cobolli)  Yibing Wu: 1/2 → 8/13, Flavio Cobolli: 13/8 → 13/10
+2026-02-27T00:33:49.199Z [EVENT] (serving: Flavio Cobolli)  game: 30-30
+2026-02-27T00:34:20.770Z [ODDS] (serving: Flavio Cobolli)  Yibing Wu: 8/13 → 4/6, Flavio Cobolli: 13/10 → 6/5
+2026-02-27T00:34:20.770Z [EVENT] (serving: Flavio Cobolli)  game: 30-40
+2026-02-27T00:34:56.404Z [ODDS] (serving: Yibing Wu)  Yibing Wu: 4/6 → 8/11, Flavio Cobolli: 6/5 → 11/10
+2026-02-27T00:34:56.404Z [EVENT] (serving: Yibing Wu)  sets: 3-3, game: 0-0, serving: P1
+2026-02-27T00:35:37.902Z [ODDS] (serving: Yibing Wu)  Yibing Wu: 8/11 → 4/6, Flavio Cobolli: 11/10 → 6/5
+2026-02-27T00:35:37.902Z [EVENT] (serving: Yibing Wu)  game: 15-0
+2026-02-27T00:36:28.942Z [ODDS] (serving: Yibing Wu)  Yibing Wu: 4/6 → 4/5, Flavio Cobolli: 6/5 → 1/1
+2026-02-27T00:36:28.942Z [EVENT] (serving: Yibing Wu)  game: 15-15
+2026-02-27T00:37:30.195Z [ODDS] (serving: Yibing Wu)  Yibing Wu: 4/5 → 4/6, Flavio Cobolli: 1/1 → 6/5
+2026-02-27T00:37:30.195Z [EVENT] (serving: Yibing Wu)  game: 30-15
+2026-02-27T00:37:56.808Z [ODDS] (serving: Yibing Wu)  Yibing Wu: 4/6 → 8/11, Flavio Cobolli: 6/5 → 11/10
+2026-02-27T00:38:09.500Z [ODDS] (serving: Yibing Wu)  Yibing Wu: 8/11 → 4/5, Flavio Cobolli: 11/10 → 1/1
+2026-02-27T00:38:09.500Z [EVENT] (serving: Yibing Wu)  game: 30-30
+2026-02-27T00:38:56.385Z [ODDS] (serving: Yibing Wu)  Yibing Wu: 4/5 → 8/11, Flavio Cobolli: 1/1 → 11/10
+2026-02-27T00:38:56.385Z [EVENT] (serving: Yibing Wu)  game: 40-30
+2026-02-27T00:39:28.854Z [ODDS] (serving: Flavio Cobolli)  Yibing Wu: 8/11 → 4/6, Flavio Cobolli: 11/10 → 6/5
+2026-02-27T00:39:28.854Z [EVENT] (serving: Flavio Cobolli)  sets: 4-3, game: 0-0, serving: P2
+2026-02-27T00:41:35.141Z [ODDS] (serving: Flavio Cobolli)  Yibing Wu: 4/6 → 8/11, Flavio Cobolli: 6/5 → 11/10
+2026-02-27T00:41:35.141Z [EVENT] (serving: Flavio Cobolli)  game: 0-15
+2026-02-27T00:42:02.651Z [EVENT] (serving: Flavio Cobolli)  game: 0-30
+2026-02-27T00:42:19.339Z [ODDS] (serving: Flavio Cobolli)  Yibing Wu: 8/11 → 4/5, Flavio Cobolli: 11/10 → 1/1
+2026-02-27T00:42:19.339Z [EVENT] (serving: Flavio Cobolli)  game: 0-40
+2026-02-27T00:42:47.827Z [ODDS] (serving: Flavio Cobolli)  Yibing Wu: 4/5 → 8/11, Flavio Cobolli: 1/1 → 11/10
+2026-02-27T00:42:47.827Z [EVENT] (serving: Flavio Cobolli)  game: 15-40
+2026-02-27T00:43:20.224Z [ODDS] (serving: Yibing Wu)  Yibing Wu: 8/11 → 4/5, Flavio Cobolli: 11/10 → 1/1
+2026-02-27T00:43:20.224Z [EVENT] (serving: Yibing Wu)  sets: 4-4, game: 0-0, serving: P1
+2026-02-27T00:44:15.702Z [ODDS] (serving: Yibing Wu)  Yibing Wu: 4/5 → 10/11, Flavio Cobolli: 1/1 → 10/11
+2026-02-27T00:44:15.702Z [EVENT] (serving: Yibing Wu)  game: 0-15
+2026-02-27T00:44:52.233Z [ODDS] (serving: Yibing Wu)  Yibing Wu: 10/11 → 4/5, Flavio Cobolli: 10/11 → 1/1
+2026-02-27T00:44:52.233Z [EVENT] (serving: Yibing Wu)  game: 15-15
+2026-02-27T00:45:20.195Z [ODDS] (serving: Yibing Wu)  Yibing Wu: 4/5 → 8/11, Flavio Cobolli: 1/1 → 11/10
+2026-02-27T00:45:20.195Z [EVENT] (serving: Yibing Wu)  game: 30-15
+2026-02-27T00:46:03.490Z [ODDS] (serving: Yibing Wu)  Yibing Wu: 8/11 → 4/6, Flavio Cobolli: 11/10 → 6/5
+2026-02-27T00:46:03.490Z [EVENT] (serving: Yibing Wu)  game: 40-15
+2026-02-27T00:46:40.473Z [ODDS] (serving: Flavio Cobolli)  Yibing Wu: 4/6 → 8/13, Flavio Cobolli: 6/5 → 13/10
+2026-02-27T00:46:40.473Z [EVENT] (serving: Flavio Cobolli)  sets: 5-4, game: 0-0, serving: P2
+2026-02-27T00:48:52.166Z [ODDS] (serving: Flavio Cobolli)  Yibing Wu: 8/13 → 4/6, Flavio Cobolli: 13/10 → 6/5
+2026-02-27T00:48:52.166Z [EVENT] (serving: Flavio Cobolli)  game: 0-15
+2026-02-27T00:49:35.915Z [ODDS] (serving: Flavio Cobolli)  Yibing Wu: 4/6 → 8/13, Flavio Cobolli: 6/5 → 13/10
+2026-02-27T00:49:35.915Z [EVENT] (serving: Flavio Cobolli)  game: 15-15
+2026-02-27T00:50:07.485Z [ODDS] (serving: Flavio Cobolli)  Yibing Wu: 8/13 → 4/7, Flavio Cobolli: 13/10 → 11/8
+2026-02-27T00:50:16.956Z [ODDS] (serving: Flavio Cobolli)  Yibing Wu: 4/7 → 1/2, Flavio Cobolli: 11/8 → 13/8
+2026-02-27T00:50:16.956Z [EVENT] (serving: Flavio Cobolli)  game: 30-15
+2026-02-27T00:50:51.690Z [ODDS] (serving: Flavio Cobolli)  Yibing Wu: 1/2 → 4/7, Flavio Cobolli: 13/8 → 11/8
+2026-02-27T00:50:51.690Z [EVENT] (serving: Flavio Cobolli)  game: 30-30
+2026-02-27T00:51:20.097Z [ODDS] (serving: Flavio Cobolli)  Yibing Wu: 4/7 → 8/15, Flavio Cobolli: 11/8 → 6/4
+2026-02-27T00:52:05.649Z [ODDS] (serving: Flavio Cobolli)  Yibing Wu: 8/15 → 4/6, Flavio Cobolli: 6/4 → 6/5
+2026-02-27T00:52:05.649Z [EVENT] (serving: Flavio Cobolli)  game: 30-40
+2026-02-27T00:52:59.320Z [ODDS] (serving: Yibing Wu)  Yibing Wu: 4/6 → 8/11, Flavio Cobolli: 6/5 → 11/10
+2026-02-27T00:52:59.320Z [EVENT] (serving: Yibing Wu)  sets: 5-5, game: 0-0, serving: P1
+2026-02-27T00:53:39.008Z [ODDS] (serving: Yibing Wu)  Yibing Wu: 8/11 → 4/6, Flavio Cobolli: 11/10 → 6/5
+2026-02-27T00:53:39.008Z [EVENT] (serving: Yibing Wu)  game: 15-0
+2026-02-27T00:54:27.268Z [ODDS] (serving: Yibing Wu)  Yibing Wu: 4/6 → 8/13, Flavio Cobolli: 6/5 → 13/10
+2026-02-27T00:54:27.268Z [EVENT] (serving: Yibing Wu)  game: 30-0
+2026-02-27T00:54:53.881Z [EVENT] (serving: Yibing Wu)  game: 40-0
+2026-02-27T00:55:19.135Z [ODDS] (serving: Flavio Cobolli)  Yibing Wu: 8/13 → 4/7, Flavio Cobolli: 13/10 → 11/8
+2026-02-27T00:55:19.135Z [EVENT] (serving: Flavio Cobolli)  sets: 6-5, game: 0-0, serving: P2
+2026-02-27T00:57:34.886Z [ODDS] (serving: Flavio Cobolli)  Yibing Wu: 4/7 → 1/2, Flavio Cobolli: 11/8 → 13/8
+2026-02-27T00:57:34.886Z [EVENT] (serving: Flavio Cobolli)  game: 15-0
+2026-02-27T00:58:07.809Z [ODDS] (serving: Flavio Cobolli)  Yibing Wu: 1/2 → 8/15, Flavio Cobolli: 13/8 → 6/4
+2026-02-27T00:58:07.809Z [EVENT] (serving: Flavio Cobolli)  game: 15-15
+2026-02-27T00:58:39.830Z [ODDS] (serving: Flavio Cobolli)  Yibing Wu: 8/15 → 8/13, Flavio Cobolli: 6/4 → 13/10
+2026-02-27T00:58:39.830Z [EVENT] (serving: Flavio Cobolli)  game: 15-30
+2026-02-27T00:59:03.282Z [ODDS] (serving: Flavio Cobolli)  Yibing Wu: 8/13 → 8/15, Flavio Cobolli: 13/10 → 6/4
+2026-02-27T00:59:03.282Z [EVENT] (serving: Flavio Cobolli)  game: 30-30
+2026-02-27T00:59:33.498Z [ODDS] (serving: Flavio Cobolli)  Yibing Wu: 8/15 → 1/2, Flavio Cobolli: 6/4 → 13/8
+2026-02-27T00:59:48.834Z [ODDS] (serving: Flavio Cobolli)  Yibing Wu: 1/2 → 2/5, Flavio Cobolli: 13/8 → 2/1
+2026-02-27T00:59:48.834Z [EVENT] (serving: Flavio Cobolli)  game: 40-30
+2026-02-27T01:00:18.149Z [ODDS] (serving: Flavio Cobolli)  Yibing Wu: 2/5 → 4/11, Flavio Cobolli: 2/1 → 11/5
+2026-02-27T01:00:28.975Z [ODDS] (serving: Flavio Cobolli)  Yibing Wu: 4/11 → 1/2, Flavio Cobolli: 11/5 → 13/8
+2026-02-27T01:00:28.975Z [EVENT] (serving: Flavio Cobolli)  game: 40-40
+2026-02-27T01:01:13.174Z [ODDS] (serving: Flavio Cobolli)  Yibing Wu: 1/2 → 4/11, Flavio Cobolli: 13/8 → 11/5
+2026-02-27T01:01:13.174Z [EVENT] (serving: Flavio Cobolli)  game: A-40
+2026-02-27T01:01:51.960Z [ODDS] (serving: Flavio Cobolli)  Yibing Wu: 4/11 → 1/3, Flavio Cobolli: 11/5 → 12/5
+2026-02-27T01:02:12.253Z [ODDS] (serving: Flavio Cobolli)  Yibing Wu: 1/3 → 1/2, Flavio Cobolli: 12/5 → 13/8
+2026-02-27T01:02:12.254Z [EVENT] (serving: Flavio Cobolli)  game: 40-40
+2026-02-27T01:03:24.415Z [ODDS] (serving: Flavio Cobolli)  Yibing Wu: 1/2 → 4/7, Flavio Cobolli: 13/8 → 11/8
+2026-02-27T01:03:24.415Z [EVENT] (serving: Flavio Cobolli)  game: 40-A
+2026-02-27T01:04:00.045Z [ODDS] (serving: Yibing Wu)  Yibing Wu: 4/7 → 8/13, Flavio Cobolli: 11/8 → 13/10
+2026-02-27T01:04:00.045Z [EVENT] (serving: Yibing Wu)  sets: 6-6, game: 0-0, serving: P1
+2026-02-27T01:04:46.949Z [ODDS] (serving: Flavio Cobolli)  Yibing Wu: 8/13 → 10/11, Flavio Cobolli: 13/10 → 10/11
+2026-02-27T01:04:46.949Z [EVENT] (serving: Flavio Cobolli)  game: 0-1, serving: P2
+2026-02-27T01:05:22.127Z [ODDS] (serving: Flavio Cobolli)  Yibing Wu: 10/11 → 4/6, Flavio Cobolli: 10/11 → 6/5
+2026-02-27T01:05:22.127Z [EVENT] (serving: Flavio Cobolli)  game: 1-1
+2026-02-27T01:05:50.093Z [ODDS] (serving: Flavio Cobolli)  Yibing Wu: 4/6 → 8/13, Flavio Cobolli: 6/5 → 13/10
+2026-02-27T01:06:07.233Z [ODDS] (serving: Yibing Wu)  Yibing Wu: 8/13 → 4/9, Flavio Cobolli: 13/10 → 7/4
+2026-02-27T01:06:07.233Z [EVENT] (serving: Yibing Wu)  game: 2-1, serving: P1
+2026-02-27T01:06:48.724Z [ODDS] (serving: Yibing Wu)  Yibing Wu: 4/9 → 4/11, Flavio Cobolli: 7/4 → 11/5
+2026-02-27T01:06:48.724Z [EVENT] (serving: Yibing Wu)  game: 3-1
+2026-02-27T01:07:16.687Z [ODDS] (serving: Flavio Cobolli)  Yibing Wu: 4/11 → 8/15, Flavio Cobolli: 11/5 → 6/4
+2026-02-27T01:07:16.687Z [EVENT] (serving: Flavio Cobolli)  game: 3-2, serving: P2
+2026-02-27T01:07:55.474Z [ODDS] (serving: Flavio Cobolli)  Yibing Wu: 8/15 → 1/2, Flavio Cobolli: 6/4 → 13/8
+2026-02-27T01:08:08.551Z [ODDS] (serving: Flavio Cobolli)  Yibing Wu: 1/2 → 4/6, Flavio Cobolli: 13/8 → 6/5
+2026-02-27T01:08:08.551Z [EVENT] (serving: Flavio Cobolli)  game: 3-3
+2026-02-27T01:09:22.374Z [ODDS] (serving: Yibing Wu)  Yibing Wu: 4/6 → 4/5, Flavio Cobolli: 6/5 → 1/1
+2026-02-27T01:09:22.374Z [EVENT] (serving: Yibing Wu)  game: 3-4, serving: P1
+2026-02-27T01:10:04.767Z [ODDS] (serving: Yibing Wu)  Yibing Wu: 4/5 → 4/6, Flavio Cobolli: 1/1 → 6/5
+2026-02-27T01:10:04.767Z [EVENT] (serving: Yibing Wu)  game: 4-4
+2026-02-27T01:10:41.749Z [ODDS] (serving: Flavio Cobolli)  Yibing Wu: 4/6 → 1/1, Flavio Cobolli: 6/5 → 4/5
+2026-02-27T01:10:41.749Z [EVENT] (serving: Flavio Cobolli)  game: 4-5, serving: P2
+2026-02-27T01:11:32.265Z [ODDS] (serving: Flavio Cobolli)  Yibing Wu: 1/1 → 11/8, Flavio Cobolli: 4/5 → 4/7
+2026-02-27T01:11:32.265Z [EVENT] (serving: Flavio Cobolli)  game: 4-6
+2026-02-27T01:12:02.485Z [ODDS] (serving: Flavio Cobolli)  Yibing Wu: 11/8 → 7/4, Flavio Cobolli: 4/7 → 4/9
+2026-02-27T01:12:02.485Z [EVENT] (serving: Flavio Cobolli)  sets: 6-7,0-0, game: 0-0
+2026-02-27T01:15:04.238Z [ODDS] (serving: Flavio Cobolli)  Yibing Wu: 7/4 → 13/8, Flavio Cobolli: 4/9 → 1/2
+2026-02-27T01:15:04.238Z [EVENT] (serving: Flavio Cobolli)  game: 15-0
+2026-02-27T01:15:26.336Z [ODDS] (serving: Flavio Cobolli)  Yibing Wu: 13/8 → 7/4, Flavio Cobolli: 1/2 → 4/9
+2026-02-27T01:15:26.336Z [EVENT] (serving: Flavio Cobolli)  game: 15-15
+2026-02-27T01:15:57.004Z [ODDS] (serving: Flavio Cobolli)  Yibing Wu: 7/4 → 2/1, Flavio Cobolli: 4/9 → 2/5
+2026-02-27T01:15:57.004Z [EVENT] (serving: Flavio Cobolli)  game: 15-30
+2026-02-27T01:16:20.907Z [ODDS] (serving: Flavio Cobolli)  Yibing Wu: 2/1 → 11/5, Flavio Cobolli: 2/5 → 4/11
+2026-02-27T01:16:20.907Z [EVENT] (serving: Flavio Cobolli)  game: 15-40
+2026-02-27T01:16:56.537Z [ODDS] (serving: Yibing Wu)  Yibing Wu: 11/5 → 12/5, Flavio Cobolli: 4/11 → 1/3
+2026-02-27T01:16:56.537Z [EVENT] (serving: Yibing Wu)  sets: 6-7,0-1, game: 0-0, serving: P1
+2026-02-27T01:17:50.657Z [ODDS] (serving: Yibing Wu)  Yibing Wu: 12/5 → 5/2, Flavio Cobolli: 1/3 → 3/10
+2026-02-27T01:17:52.011Z [ODDS] (serving: Yibing Wu)  Yibing Wu: 5/2 → 12/5, Flavio Cobolli: 3/10 → 1/3
+2026-02-27T01:18:24.031Z [ODDS] (serving: Yibing Wu)  Yibing Wu: 12/5 → 11/5, Flavio Cobolli: 1/3 → 4/11
+2026-02-27T01:18:24.031Z [EVENT] (serving: Yibing Wu)  game: 15-0
+2026-02-27T01:18:51.090Z [ODDS] (serving: Yibing Wu)  Yibing Wu: 11/5 → 2/1, Flavio Cobolli: 4/11 → 2/5
+2026-02-27T01:18:51.091Z [EVENT] (serving: Yibing Wu)  game: 30-0
+2026-02-27T01:19:22.661Z [ODDS] (serving: Yibing Wu)  Yibing Wu: 2/1 → 11/5, Flavio Cobolli: 2/5 → 4/11
+2026-02-27T01:19:22.661Z [EVENT] (serving: Yibing Wu)  game: 30-15
+2026-02-27T01:19:50.625Z [ODDS] (serving: Yibing Wu)  Yibing Wu: 11/5 → 5/2, Flavio Cobolli: 4/11 → 3/10
+2026-02-27T01:19:50.625Z [EVENT] (serving: Yibing Wu)  game: 30-30
+2026-02-27T01:20:24.448Z [ODDS] (serving: Yibing Wu)  Yibing Wu: 5/2 → 11/5, Flavio Cobolli: 3/10 → 4/11
+2026-02-27T01:20:24.448Z [EVENT] (serving: Yibing Wu)  game: 40-30
+2026-02-27T01:20:53.312Z [ODDS] (serving: Yibing Wu)  Yibing Wu: 11/5 → 5/2, Flavio Cobolli: 4/11 → 3/10
+2026-02-27T01:20:53.312Z [EVENT] (serving: Yibing Wu)  game: 40-40
+2026-02-27T01:21:19.019Z [ODDS] (serving: Yibing Wu)  Yibing Wu: 5/2 → 11/4, Flavio Cobolli: 3/10 → 2/7
+2026-02-27T01:21:31.647Z [ODDS] (serving: Yibing Wu)  Yibing Wu: 11/4 → 10/3, Flavio Cobolli: 2/7 → 2/9
+2026-02-27T01:21:31.647Z [EVENT] (serving: Yibing Wu)  game: 40-A
+2026-02-27T01:22:04.119Z [ODDS] (serving: Flavio Cobolli)  Yibing Wu: 10/3 → 11/2, Flavio Cobolli: 2/9 → 1/9
+2026-02-27T01:22:04.119Z [EVENT] (serving: Flavio Cobolli)  sets: 6-7,0-2, game: 0-0, serving: P2
+2026-02-27T01:22:41.552Z [ODDS] (serving: Flavio Cobolli)  Yibing Wu: 11/2 → 5/1, Flavio Cobolli: 1/9 → 1/8
+2026-02-27T01:23:05.459Z [ODDS] (serving: Flavio Cobolli)  Yibing Wu: 5/1 → 9/2, Flavio Cobolli: 1/8 → 1/7
+2026-02-27T01:23:05.459Z [EVENT] (serving: Flavio Cobolli)  game: 15-0
+2026-02-27T01:23:40.190Z [ODDS] (serving: Flavio Cobolli)  Yibing Wu: 9/2 → 7/2, Flavio Cobolli: 1/7 → 1/5
+2026-02-27T01:23:40.190Z [EVENT] (serving: Flavio Cobolli)  game: 30-0
+2026-02-27T01:24:05.890Z [ODDS] (serving: Flavio Cobolli)  Yibing Wu: 7/2 → 10/3, Flavio Cobolli: 1/5 → 2/9
+2026-02-27T01:24:17.617Z [ODDS] (serving: Flavio Cobolli)  Yibing Wu: 10/3 → 4/1, Flavio Cobolli: 2/9 → 1/6
+2026-02-27T01:24:17.617Z [EVENT] (serving: Flavio Cobolli)  game: 30-15
+2026-02-27T01:24:51.443Z [ODDS] (serving: Flavio Cobolli)  Yibing Wu: 4/1 → 10/3, Flavio Cobolli: 1/6 → 2/9
+2026-02-27T01:24:51.443Z [EVENT] (serving: Flavio Cobolli)  game: 40-15
+2026-02-27T01:25:27.975Z [ODDS] (serving: Flavio Cobolli)  Yibing Wu: 10/3 → 3/1, Flavio Cobolli: 2/9 → 1/4
+2026-02-27T01:25:40.602Z [ODDS] (serving: Flavio Cobolli)  Yibing Wu: 3/1 → 7/2, Flavio Cobolli: 1/4 → 1/5
+2026-02-27T01:25:40.602Z [EVENT] (serving: Flavio Cobolli)  game: 40-30
+2026-02-27T01:26:32.918Z [ODDS] (serving: Flavio Cobolli)  Yibing Wu: 7/2 → 5/1, Flavio Cobolli: 1/5 → 1/8
+2026-02-27T01:26:32.918Z [EVENT] (serving: Flavio Cobolli)  game: 40-40
+2026-02-27T01:27:23.884Z [ODDS] (serving: Flavio Cobolli)  Yibing Wu: 5/1 → 6/1, Flavio Cobolli: 1/8 → 1/10
+2026-02-27T01:27:23.884Z [EVENT] (serving: Flavio Cobolli)  game: 40-A
+2026-02-27T01:28:06.732Z [ODDS] (serving: Flavio Cobolli)  Yibing Wu: 6/1 → 9/2, Flavio Cobolli: 1/10 → 1/7
+2026-02-27T01:28:06.732Z [EVENT] (serving: Flavio Cobolli)  game: 40-40
+2026-02-27T01:28:38.753Z [ODDS] (serving: Flavio Cobolli)  Yibing Wu: 9/2 → 6/1, Flavio Cobolli: 1/7 → 1/10
+2026-02-27T01:28:38.753Z [EVENT] (serving: Flavio Cobolli)  game: 40-A
+2026-02-27T01:29:03.110Z [ODDS] (serving: Yibing Wu)  Yibing Wu: 6/1 → 7/1, Flavio Cobolli: 1/10 → 1/12
+2026-02-27T01:29:03.110Z [EVENT] (serving: Yibing Wu)  sets: 6-7,0-3, game: 0-0, serving: P1
+2026-02-27T01:31:32.389Z [ODDS] (serving: Yibing Wu)  Yibing Wu: 7/1 → 6/1, Flavio Cobolli: 1/12 → 1/10
+2026-02-27T01:31:32.389Z [EVENT] (serving: Yibing Wu)  game: 15-0
+2026-02-27T01:31:50.882Z [EVENT] (serving: Yibing Wu)  game: 30-0
+2026-02-27T01:32:13.881Z [ODDS] (serving: Yibing Wu)  Yibing Wu: 6/1 → 11/2, Flavio Cobolli: 1/10 → 1/9
+2026-02-27T01:32:13.881Z [EVENT] (serving: Yibing Wu)  game: 40-0
+2026-02-27T01:32:36.431Z [EVENT] (serving: Flavio Cobolli)  sets: 6-7,1-3, game: 0-0, serving: P2
+2026-02-27T01:33:03.942Z [ODDS] (serving: Flavio Cobolli)  Yibing Wu: 11/2 → 5/1, Flavio Cobolli: 1/9 → 1/8
+2026-02-27T01:33:15.669Z [ODDS] (serving: Flavio Cobolli)  Yibing Wu: 5/1 → 4/1, Flavio Cobolli: 1/8 → 1/6
+2026-02-27T01:33:15.669Z [EVENT] (serving: Flavio Cobolli)  game: 15-0
+2026-02-27T01:33:48.591Z [ODDS] (serving: Flavio Cobolli)  Yibing Wu: 4/1 → 10/3, Flavio Cobolli: 1/6 → 2/9
+2026-02-27T01:33:48.591Z [EVENT] (serving: Flavio Cobolli)  game: 30-0
+2026-02-27T01:34:16.104Z [ODDS] (serving: Flavio Cobolli)  Yibing Wu: 10/3 → 4/1, Flavio Cobolli: 2/9 → 1/6
+2026-02-27T01:34:16.105Z [EVENT] (serving: Flavio Cobolli)  game: 30-15
+2026-02-27T01:34:45.872Z [ODDS] (serving: Flavio Cobolli)  Yibing Wu: 4/1 → 7/2, Flavio Cobolli: 1/6 → 1/5
+2026-02-27T01:35:00.305Z [ODDS] (serving: Flavio Cobolli)  Yibing Wu: 7/2 → 3/1, Flavio Cobolli: 1/5 → 1/4
+2026-02-27T01:35:00.305Z [EVENT] (serving: Flavio Cobolli)  game: 40-15
+2026-02-27T01:35:26.012Z [ODDS] (serving: Flavio Cobolli)  Yibing Wu: 3/1 → 11/4, Flavio Cobolli: 1/4 → 2/7
+2026-02-27T01:35:35.933Z [ODDS] (serving: Flavio Cobolli)  Yibing Wu: 11/4 → 7/2, Flavio Cobolli: 2/7 → 1/5
+2026-02-27T01:35:35.933Z [EVENT] (serving: Flavio Cobolli)  game: 40-30
+2026-02-27T01:36:05.250Z [ODDS] (serving: Flavio Cobolli)  Yibing Wu: 7/2 → 10/3, Flavio Cobolli: 1/5 → 2/9
+2026-02-27T01:36:19.682Z [ODDS] (serving: Flavio Cobolli)  Yibing Wu: 10/3 → 9/2, Flavio Cobolli: 2/9 → 1/7
+2026-02-27T01:36:19.682Z [EVENT] (serving: Flavio Cobolli)  game: 40-40
+2026-02-27T01:36:50.801Z [ODDS] (serving: Flavio Cobolli)  Yibing Wu: 9/2 → 6/1, Flavio Cobolli: 1/7 → 1/10
+2026-02-27T01:36:50.801Z [EVENT] (serving: Flavio Cobolli)  game: 40-A
+2026-02-27T01:37:10.195Z [ODDS] (serving: Yibing Wu)  Yibing Wu: 6/1 → 8/1, Flavio Cobolli: 1/10 → 1/14
+2026-02-27T01:37:10.195Z [EVENT] (serving: Yibing Wu)  sets: 6-7,1-4, game: 0-0, serving: P1
+2026-02-27T01:39:31.592Z [ODDS] (serving: Yibing Wu)  Yibing Wu: 8/1 → 9/1, Flavio Cobolli: 1/14 → 1/16
+2026-02-27T01:39:31.592Z [EVENT] (serving: Yibing Wu)  game: 0-15
+2026-02-27T01:39:54.145Z [ODDS] (serving: Yibing Wu)  Yibing Wu: 9/1 → 10/1, Flavio Cobolli: 1/16 → 1/20
+2026-02-27T01:40:12.185Z [ODDS] (serving: Yibing Wu)  Yibing Wu: 10/1 → 12/1, Flavio Cobolli: 1/20 → 1/25
+2026-02-27T01:40:12.185Z [EVENT] (serving: Yibing Wu)  game: 0-30
+2026-02-27T01:40:51.424Z [ODDS] (serving: Yibing Wu)  Yibing Wu: 12/1 → 18/1, Flavio Cobolli: 1/25 → 1/50
+2026-02-27T01:40:51.424Z [EVENT] (serving: Yibing Wu)  game: 0-40
+2026-02-27T01:41:23.902Z [ODDS] (serving: Yibing Wu)  Yibing Wu: 18/1 → 14/1, Flavio Cobolli: 1/50 → 1/33
+2026-02-27T01:41:23.902Z [EVENT] (serving: Yibing Wu)  game: 15-40
+2026-02-27T01:41:53.216Z [ODDS] (serving: Flavio Cobolli)  Yibing Wu: 14/1 → 28/1, Flavio Cobolli: 1/33 → 1/150
+2026-02-27T01:41:53.216Z [EVENT] (serving: Flavio Cobolli)  sets: 6-7,1-5, game: 0-0, serving: P2
+2026-02-27T01:42:38.316Z [ODDS] (serving: Flavio Cobolli)  Yibing Wu: 28/1 → 25/1, Flavio Cobolli: 1/150 → 1/100
+2026-02-27T01:42:47.787Z [ODDS] (serving: Flavio Cobolli)  Yibing Wu: 25/1 → 22/1, Flavio Cobolli: 1/100 → 1/80
+2026-02-27T01:42:47.787Z [EVENT] (serving: Flavio Cobolli)  game: 15-0
+2026-02-27T01:43:07.631Z [ODDS] (serving: Flavio Cobolli)  Yibing Wu: 22/1 → 20/1, Flavio Cobolli: 1/80 → 1/66
+2026-02-27T01:43:17.102Z [ODDS] (serving: Flavio Cobolli)  Yibing Wu: 20/1 → 25/1, Flavio Cobolli: 1/66 → 1/100
+2026-02-27T01:43:17.102Z [EVENT] (serving: Flavio Cobolli)  game: 15-15
+2026-02-27T01:43:45.066Z [ODDS] (serving: Flavio Cobolli)  Yibing Wu: 25/1 → 20/1, Flavio Cobolli: 1/100 → 1/66
+2026-02-27T01:43:45.066Z [EVENT] (serving: Flavio Cobolli)  game: 30-15
+2026-02-27T01:44:07.618Z [ODDS] (serving: Flavio Cobolli)  Yibing Wu: 20/1 → 18/1, Flavio Cobolli: 1/66 → 1/50
+2026-02-27T01:44:16.188Z [ODDS] (serving: Flavio Cobolli)  Yibing Wu: 18/1 → 14/1, Flavio Cobolli: 1/50 → 1/33
+2026-02-27T01:44:16.188Z [EVENT] (serving: Flavio Cobolli)  game: 40-15
+2026-02-27T01:44:41.444Z [ODDS] (serving: Flavio Cobolli)  Yibing Wu: 14/1 → 18/1, Flavio Cobolli: 1/33 → 1/50
+2026-02-27T01:44:41.444Z [EVENT] (serving: Flavio Cobolli)  game: 40-30
+2026-02-27T01:45:02.190Z [ODDS] (serving: Flavio Cobolli)  Yibing Wu: 18/1 → 16/1, Flavio Cobolli: 1/50 → 1/40
+2026-02-27T01:45:11.662Z [ODDS] (serving: Flavio Cobolli)  Yibing Wu: 16/1 → 25/1, Flavio Cobolli: 1/40 → 1/100
+2026-02-27T01:45:11.662Z [EVENT] (serving: Flavio Cobolli)  game: 40-40
+2026-02-27T01:45:34.210Z [ODDS] (serving: Flavio Cobolli)  Yibing Wu: 25/1 → 22/1, Flavio Cobolli: 1/100 → 1/80
+2026-02-27T01:45:45.037Z [ODDS] (serving: Flavio Cobolli)  Yibing Wu: 22/1 → 40/1, Flavio Cobolli: 1/80 → 1/250
+2026-02-27T01:45:45.037Z [EVENT] (serving: Flavio Cobolli)  game: 40-A
+2026-02-27T01:46:09.850Z [ODDS] (serving: Flavio Cobolli)  Yibing Wu: 40/1 → 0/0, Flavio Cobolli: 1/250 → 0/0
+2026-02-27T01:46:09.850Z [EVENT] (serving: Flavio Cobolli)  sets: 6-7,1-6, game: 0-0

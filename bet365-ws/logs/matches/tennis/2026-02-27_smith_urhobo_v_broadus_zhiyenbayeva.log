@@ -1,0 +1,158 @@
+2026-02-27T02:38:38.348Z [EVENT] (serving: Smith/Urhobo)  game: 0-15
+2026-02-27T02:39:32.469Z [ODDS] (serving: Smith/Urhobo)  Smith/Urhobo: 5/4 → 11/8, Broadus/Zhiyenbayeva: 4/7 → 8/15
+2026-02-27T02:39:32.469Z [EVENT] (serving: Smith/Urhobo)  game: 0-30
+2026-02-27T02:40:06.295Z [EVENT] (serving: Smith/Urhobo)  game: 15-30
+2026-02-27T02:40:31.550Z [ODDS] (serving: Smith/Urhobo)  Smith/Urhobo: 11/8 → 5/4, Broadus/Zhiyenbayeva: 8/15 → 4/7
+2026-02-27T02:40:31.550Z [EVENT] (serving: Smith/Urhobo)  game: 30-30
+2026-02-27T02:41:06.733Z [ODDS] (serving: Smith/Urhobo)  Smith/Urhobo: 5/4 → 6/4, Broadus/Zhiyenbayeva: 4/7 → 1/2
+2026-02-27T02:41:06.733Z [EVENT] (serving: Smith/Urhobo)  game: 30-40
+2026-02-27T02:41:41.908Z [ODDS] (serving: Broadus/Zhiyenbayeva)  Smith/Urhobo: 6/4 → 13/8, Broadus/Zhiyenbayeva: 1/2 → 4/9
+2026-02-27T02:41:41.909Z [EVENT] (serving: Broadus/Zhiyenbayeva)  sets: 0-3, game: 0-0, serving: P2
+2026-02-27T02:43:10.304Z [EVENT] (serving: Broadus/Zhiyenbayeva)  game: 15-0
+2026-02-27T02:43:44.583Z [ODDS] (serving: Broadus/Zhiyenbayeva)  Smith/Urhobo: 13/8 → 6/4, Broadus/Zhiyenbayeva: 4/9 → 1/2
+2026-02-27T02:43:44.583Z [EVENT] (serving: Broadus/Zhiyenbayeva)  game: 30-0
+2026-02-27T02:44:13.446Z [EVENT] (serving: Broadus/Zhiyenbayeva)  game: 40-0
+2026-02-27T02:44:44.570Z [ODDS] (serving: Smith/Urhobo)  Smith/Urhobo: 6/4 → 11/8, Broadus/Zhiyenbayeva: 1/2 → 8/15
+2026-02-27T02:44:44.570Z [EVENT] (serving: Smith/Urhobo)  sets: 1-3, game: 0-0, serving: P1
+2026-02-27T02:45:29.672Z [ODDS] (serving: Smith/Urhobo)  Smith/Urhobo: 11/8 → 5/4, Broadus/Zhiyenbayeva: 8/15 → 4/7
+2026-02-27T02:45:29.672Z [EVENT] (serving: Smith/Urhobo)  game: 15-0
+2026-02-27T02:45:58.538Z [ODDS] (serving: Smith/Urhobo)  Smith/Urhobo: 5/4 → 6/4, Broadus/Zhiyenbayeva: 4/7 → 1/2
+2026-02-27T02:45:58.538Z [EVENT] (serving: Smith/Urhobo)  game: 15-15
+2026-02-27T02:46:41.839Z [ODDS] (serving: Smith/Urhobo)  Smith/Urhobo: 6/4 → 13/8, Broadus/Zhiyenbayeva: 1/2 → 4/9
+2026-02-27T02:46:41.839Z [EVENT] (serving: Smith/Urhobo)  game: 15-30
+2026-02-27T02:47:27.842Z [ODDS] (serving: Smith/Urhobo)  Smith/Urhobo: 13/8 → 7/4, Broadus/Zhiyenbayeva: 4/9 → 2/5
+2026-02-27T02:47:27.842Z [EVENT] (serving: Smith/Urhobo)  game: 15-40
+2026-02-27T02:48:13.846Z [ODDS] (serving: Broadus/Zhiyenbayeva)  Smith/Urhobo: 7/4 → 2/1, Broadus/Zhiyenbayeva: 2/5 → 4/11
+2026-02-27T02:48:13.846Z [EVENT] (serving: Broadus/Zhiyenbayeva)  sets: 1-4, game: 0-0, serving: P2
+2026-02-27T02:49:51.712Z [ODDS] (serving: Broadus/Zhiyenbayeva)  Smith/Urhobo: 2/1 → 9/4, Broadus/Zhiyenbayeva: 4/11 → 1/3
+2026-02-27T02:49:51.712Z [EVENT] (serving: Broadus/Zhiyenbayeva)  game: 0-15
+2026-02-27T02:50:19.223Z [EVENT] (serving: Broadus/Zhiyenbayeva)  game: 0-30
+2026-02-27T02:51:00.719Z [ODDS] (serving: Broadus/Zhiyenbayeva)  Smith/Urhobo: 9/4 → 12/5, Broadus/Zhiyenbayeva: 1/3 → 3/10
+2026-02-27T02:51:00.719Z [EVENT] (serving: Broadus/Zhiyenbayeva)  game: 0-40
+2026-02-27T02:51:44.019Z [ODDS] (serving: Smith/Urhobo)  Smith/Urhobo: 12/5 → 5/2, Broadus/Zhiyenbayeva: 3/10 → 2/7
+2026-02-27T02:51:44.019Z [EVENT] (serving: Smith/Urhobo)  sets: 1-5, game: 0-0, serving: P1
+2026-02-27T02:52:44.904Z [ODDS] (serving: Smith/Urhobo)  Smith/Urhobo: 5/2 → 12/5, Broadus/Zhiyenbayeva: 2/7 → 3/10
+2026-02-27T02:52:44.904Z [EVENT] (serving: Smith/Urhobo)  game: 15-0
+2026-02-27T02:53:21.551Z [EVENT] (serving: Smith/Urhobo)  game: 30-0
+2026-02-27T02:54:05.634Z [ODDS] (serving: Smith/Urhobo)  Smith/Urhobo: 12/5 → 9/4, Broadus/Zhiyenbayeva: 3/10 → 1/3
+2026-02-27T02:54:05.634Z [EVENT] (serving: Smith/Urhobo)  game: 40-0
+2026-02-27T02:54:39.911Z [EVENT] (serving: Broadus/Zhiyenbayeva)  sets: 2-5, game: 0-0, serving: P2
+2026-02-27T02:56:03.345Z [EVENT] (serving: Broadus/Zhiyenbayeva)  game: 15-0
+2026-02-27T02:56:57.017Z [EVENT] (serving: Broadus/Zhiyenbayeva)  game: 30-0
+2026-02-27T02:57:17.367Z [ODDS] (serving: Broadus/Zhiyenbayeva)  Smith/Urhobo: 9/4 → 2/1, Broadus/Zhiyenbayeva: 1/3 → 4/11
+2026-02-27T02:57:17.367Z [EVENT] (serving: Broadus/Zhiyenbayeva)  game: 40-0
+2026-02-27T02:57:57.452Z [ODDS] (serving: Broadus/Zhiyenbayeva)  Smith/Urhobo: 2/1 → 7/4, Broadus/Zhiyenbayeva: 4/11 → 2/5
+2026-02-27T02:57:57.452Z [EVENT] (serving: Broadus/Zhiyenbayeva)  game: 40-15
+2026-02-27T02:58:29.923Z [EVENT] (serving: Broadus/Zhiyenbayeva)  game: 40-30
+2026-02-27T02:58:57.004Z [ODDS] (serving: Smith/Urhobo)  Smith/Urhobo: 7/4 → 13/8, Broadus/Zhiyenbayeva: 2/5 → 4/9
+2026-02-27T02:58:57.004Z [EVENT] (serving: Smith/Urhobo)  sets: 3-5, game: 0-0, serving: P1
+2026-02-27T02:59:45.691Z [ODDS] (serving: Smith/Urhobo)  Smith/Urhobo: 13/8 → 7/4, Broadus/Zhiyenbayeva: 4/9 → 2/5
+2026-02-27T02:59:45.691Z [EVENT] (serving: Smith/Urhobo)  game: 0-15
+2026-02-27T03:00:19.067Z [ODDS] (serving: Smith/Urhobo)  Smith/Urhobo: 7/4 → 13/8, Broadus/Zhiyenbayeva: 2/5 → 4/9
+2026-02-27T03:00:19.067Z [EVENT] (serving: Smith/Urhobo)  game: 15-15
+2026-02-27T03:00:49.288Z [ODDS] (serving: Smith/Urhobo)  Smith/Urhobo: 13/8 → 2/1, Broadus/Zhiyenbayeva: 4/9 → 4/11
+2026-02-27T03:00:49.288Z [EVENT] (serving: Smith/Urhobo)  game: 15-30
+2026-02-27T03:01:27.624Z [ODDS] (serving: Smith/Urhobo)  Smith/Urhobo: 2/1 → 9/4, Broadus/Zhiyenbayeva: 4/11 → 1/3
+2026-02-27T03:01:27.624Z [EVENT] (serving: Smith/Urhobo)  game: 15-40
+2026-02-27T03:01:59.194Z [ODDS] (serving: Smith/Urhobo)  Smith/Urhobo: 9/4 → 2/1, Broadus/Zhiyenbayeva: 1/3 → 4/11
+2026-02-27T03:01:59.194Z [EVENT] (serving: Smith/Urhobo)  game: 30-40
+2026-02-27T03:02:41.589Z [ODDS] (serving: Smith/Urhobo)  Smith/Urhobo: 2/1 → 7/4, Broadus/Zhiyenbayeva: 4/11 → 2/5
+2026-02-27T03:02:41.590Z [EVENT] (serving: Smith/Urhobo)  game: 40-40
+2026-02-27T03:03:21.303Z [ODDS] (serving: Broadus/Zhiyenbayeva)  Smith/Urhobo: 7/4 → 6/4, Broadus/Zhiyenbayeva: 2/5 → 1/2
+2026-02-27T03:03:21.303Z [EVENT] (serving: Broadus/Zhiyenbayeva)  sets: 4-5, game: 0-0, serving: P2
+2026-02-27T03:04:54.641Z [ODDS] (serving: Broadus/Zhiyenbayeva)  Smith/Urhobo: 6/4 → 11/8, Broadus/Zhiyenbayeva: 1/2 → 8/15
+2026-02-27T03:05:05.547Z [ODDS] (serving: Broadus/Zhiyenbayeva)  Smith/Urhobo: 11/8 → 13/8, Broadus/Zhiyenbayeva: 8/15 → 4/9
+2026-02-27T03:05:05.547Z [EVENT] (serving: Broadus/Zhiyenbayeva)  game: 0-15
+2026-02-27T03:05:37.935Z [ODDS] (serving: Broadus/Zhiyenbayeva)  Smith/Urhobo: 13/8 → 11/8, Broadus/Zhiyenbayeva: 4/9 → 8/15
+2026-02-27T03:05:37.935Z [EVENT] (serving: Broadus/Zhiyenbayeva)  game: 15-15
+2026-02-27T03:06:04.999Z [ODDS] (serving: Broadus/Zhiyenbayeva)  Smith/Urhobo: 11/8 → 13/8, Broadus/Zhiyenbayeva: 8/15 → 4/9
+2026-02-27T03:06:04.999Z [EVENT] (serving: Broadus/Zhiyenbayeva)  game: 15-30
+2026-02-27T03:06:22.585Z [ODDS] (serving: Broadus/Zhiyenbayeva)  Smith/Urhobo: 13/8 → 6/4, Broadus/Zhiyenbayeva: 4/9 → 1/2
+2026-02-27T03:06:39.270Z [ODDS] (serving: Broadus/Zhiyenbayeva)  Smith/Urhobo: 6/4 → 5/4, Broadus/Zhiyenbayeva: 1/2 → 4/7
+2026-02-27T03:06:39.270Z [EVENT] (serving: Broadus/Zhiyenbayeva)  game: 30-30
+2026-02-27T03:07:06.805Z [ODDS] (serving: Broadus/Zhiyenbayeva)  Smith/Urhobo: 5/4 → 6/5, Broadus/Zhiyenbayeva: 4/7 → 8/13
+2026-02-27T03:07:27.077Z [ODDS] (serving: Broadus/Zhiyenbayeva)  Smith/Urhobo: 6/5 → 1/1, Broadus/Zhiyenbayeva: 8/13 → 3/4
+2026-02-27T03:07:27.078Z [EVENT] (serving: Broadus/Zhiyenbayeva)  game: 40-30
+2026-02-27T03:07:59.555Z [ODDS] (serving: Broadus/Zhiyenbayeva)  Smith/Urhobo: 1/1 → 5/4, Broadus/Zhiyenbayeva: 3/4 → 4/7
+2026-02-27T03:07:59.555Z [EVENT] (serving: Broadus/Zhiyenbayeva)  game: 40-40
+2026-02-27T03:10:47.972Z [ODDS] (serving: Smith/Urhobo)  Smith/Urhobo: 9/4 → 2/1, Broadus/Zhiyenbayeva: 1/3 → 4/11
+2026-02-27T03:10:47.972Z [EVENT] (serving: Smith/Urhobo)  game: 15-0
+2026-02-27T03:11:15.042Z [ODDS] (serving: Smith/Urhobo)  Smith/Urhobo: 2/1 → 9/4, Broadus/Zhiyenbayeva: 4/11 → 1/3
+2026-02-27T03:11:15.042Z [EVENT] (serving: Smith/Urhobo)  game: 15-15
+2026-02-27T03:11:54.720Z [ODDS] (serving: Smith/Urhobo)  Smith/Urhobo: 9/4 → 2/1, Broadus/Zhiyenbayeva: 1/3 → 4/11
+2026-02-27T03:11:54.720Z [EVENT] (serving: Smith/Urhobo)  game: 30-15
+2026-02-27T03:12:19.075Z [ODDS] (serving: Smith/Urhobo)  Smith/Urhobo: 2/1 → 9/4, Broadus/Zhiyenbayeva: 4/11 → 1/3
+2026-02-27T03:12:19.075Z [EVENT] (serving: Smith/Urhobo)  game: 30-30
+2026-02-27T03:12:58.318Z [ODDS] (serving: Smith/Urhobo)  Smith/Urhobo: 9/4 → 11/4, Broadus/Zhiyenbayeva: 1/3 → 1/4
+2026-02-27T03:12:58.318Z [EVENT] (serving: Smith/Urhobo)  game: 30-40
+2026-02-27T03:13:42.960Z [ODDS] (serving: Broadus/Zhiyenbayeva)  Smith/Urhobo: 11/4 → 10/3, Broadus/Zhiyenbayeva: 1/4 → 1/5
+2026-02-27T03:13:42.960Z [EVENT] (serving: Broadus/Zhiyenbayeva)  sets: 4-6,0-1, game: 0-0, serving: P2
+2026-02-27T03:14:56.930Z [ODDS] (serving: Broadus/Zhiyenbayeva)  Smith/Urhobo: 10/3 → 11/4, Broadus/Zhiyenbayeva: 1/5 → 1/4
+2026-02-27T03:14:56.930Z [EVENT] (serving: Broadus/Zhiyenbayeva)  game: 15-0
+2026-02-27T03:15:37.519Z [ODDS] (serving: Broadus/Zhiyenbayeva)  Smith/Urhobo: 11/4 → 10/3, Broadus/Zhiyenbayeva: 1/4 → 1/5
+2026-02-27T03:15:37.519Z [EVENT] (serving: Broadus/Zhiyenbayeva)  game: 15-15
+2026-02-27T03:16:05.485Z [ODDS] (serving: Broadus/Zhiyenbayeva)  Smith/Urhobo: 10/3 → 11/4, Broadus/Zhiyenbayeva: 1/5 → 1/4
+2026-02-27T03:16:05.486Z [EVENT] (serving: Broadus/Zhiyenbayeva)  game: 30-15
+2026-02-27T03:16:30.290Z [ODDS] (serving: Broadus/Zhiyenbayeva)  Smith/Urhobo: 11/4 → 3/1, Broadus/Zhiyenbayeva: 1/4 → 2/9
+2026-02-27T03:16:30.291Z [EVENT] (serving: Broadus/Zhiyenbayeva)  game: 30-30
+2026-02-27T03:17:19.902Z [ODDS] (serving: Broadus/Zhiyenbayeva)  Smith/Urhobo: 3/1 → 5/2, Broadus/Zhiyenbayeva: 2/9 → 2/7
+2026-02-27T03:17:19.902Z [EVENT] (serving: Broadus/Zhiyenbayeva)  game: 40-30
+2026-02-27T03:17:43.807Z [ODDS] (serving: Broadus/Zhiyenbayeva)  Smith/Urhobo: 5/2 → 12/5, Broadus/Zhiyenbayeva: 2/7 → 3/10
+2026-02-27T03:17:56.891Z [ODDS] (serving: Smith/Urhobo)  Smith/Urhobo: 12/5 → 2/1, Broadus/Zhiyenbayeva: 3/10 → 4/11
+2026-02-27T03:17:56.891Z [EVENT] (serving: Smith/Urhobo)  sets: 4-6,1-1, game: 0-0, serving: P1
+2026-02-27T03:18:38.376Z [ODDS] (serving: Smith/Urhobo)  Smith/Urhobo: 2/1 → 7/4, Broadus/Zhiyenbayeva: 4/11 → 2/5
+2026-02-27T03:18:38.376Z [EVENT] (serving: Smith/Urhobo)  game: 15-0
+2026-02-27T03:19:10.848Z [ODDS] (serving: Smith/Urhobo)  Smith/Urhobo: 7/4 → 9/4, Broadus/Zhiyenbayeva: 2/5 → 1/3
+2026-02-27T03:19:10.848Z [EVENT] (serving: Smith/Urhobo)  game: 15-15
+2026-02-27T03:19:51.440Z [ODDS] (serving: Smith/Urhobo)  Smith/Urhobo: 9/4 → 7/4, Broadus/Zhiyenbayeva: 1/3 → 2/5
+2026-02-27T03:19:51.440Z [EVENT] (serving: Smith/Urhobo)  game: 30-15
+2026-02-27T03:20:29.376Z [ODDS] (serving: Smith/Urhobo)  Smith/Urhobo: 7/4 → 2/1, Broadus/Zhiyenbayeva: 2/5 → 4/11
+2026-02-27T03:20:43.306Z [ODDS] (serving: Smith/Urhobo)  Smith/Urhobo: 2/1 → 9/4, Broadus/Zhiyenbayeva: 4/11 → 1/3
+2026-02-27T03:20:43.306Z [EVENT] (serving: Smith/Urhobo)  game: 30-30
+2026-02-27T03:21:16.232Z [ODDS] (serving: Smith/Urhobo)  Smith/Urhobo: 9/4 → 12/5, Broadus/Zhiyenbayeva: 1/3 → 3/10
+2026-02-27T03:21:29.775Z [ODDS] (serving: Smith/Urhobo)  Smith/Urhobo: 12/5 → 7/4, Broadus/Zhiyenbayeva: 3/10 → 2/5
+2026-02-27T03:21:29.775Z [EVENT] (serving: Smith/Urhobo)  game: 40-30
+2026-02-27T03:22:14.864Z [ODDS] (serving: Smith/Urhobo)  Smith/Urhobo: 7/4 → 9/4, Broadus/Zhiyenbayeva: 2/5 → 1/3
+2026-02-27T03:22:14.864Z [EVENT] (serving: Smith/Urhobo)  game: 40-40
+2026-02-27T03:22:56.893Z [ODDS] (serving: Broadus/Zhiyenbayeva)  Smith/Urhobo: 9/4 → 13/8, Broadus/Zhiyenbayeva: 1/3 → 4/9
+2026-02-27T03:22:56.898Z [EVENT] (serving: Broadus/Zhiyenbayeva)  sets: 4-6,2-1, game: 0-0, serving: P2
+2026-02-27T03:24:45.508Z [ODDS] (serving: Broadus/Zhiyenbayeva)  Smith/Urhobo: 13/8 → 7/4, Broadus/Zhiyenbayeva: 4/9 → 2/5
+2026-02-27T03:24:45.509Z [EVENT] (serving: Broadus/Zhiyenbayeva)  game: 0-15
+2026-02-27T03:25:26.545Z [ODDS] (serving: Broadus/Zhiyenbayeva)  Smith/Urhobo: 7/4 → 9/4, Broadus/Zhiyenbayeva: 2/5 → 1/3
+2026-02-27T03:25:26.545Z [EVENT] (serving: Broadus/Zhiyenbayeva)  game: 0-30
+2026-02-27T03:25:57.209Z [ODDS] (serving: Broadus/Zhiyenbayeva)  Smith/Urhobo: 9/4 → 7/4, Broadus/Zhiyenbayeva: 1/3 → 2/5
+2026-02-27T03:25:57.209Z [EVENT] (serving: Broadus/Zhiyenbayeva)  game: 15-30
+2026-02-27T03:26:28.839Z [ODDS] (serving: Broadus/Zhiyenbayeva)  Smith/Urhobo: 7/4 → 9/4, Broadus/Zhiyenbayeva: 2/5 → 1/3
+2026-02-27T03:26:28.839Z [EVENT] (serving: Broadus/Zhiyenbayeva)  game: 15-40
+2026-02-27T03:26:52.236Z [ODDS] (serving: Broadus/Zhiyenbayeva)  Smith/Urhobo: 9/4 → 2/1, Broadus/Zhiyenbayeva: 1/3 → 4/11
+2026-02-27T03:27:12.526Z [EVENT] (serving: Broadus/Zhiyenbayeva)  game: 30-40
+2026-02-27T03:27:43.646Z [ODDS] (serving: Broadus/Zhiyenbayeva)  Smith/Urhobo: 2/1 → 7/4, Broadus/Zhiyenbayeva: 4/11 → 2/5
+2026-02-27T03:28:00.789Z [ODDS] (serving: Broadus/Zhiyenbayeva)  Smith/Urhobo: 7/4 → 13/8, Broadus/Zhiyenbayeva: 2/5 → 4/9
+2026-02-27T03:28:00.789Z [EVENT] (serving: Broadus/Zhiyenbayeva)  game: 40-40
+2026-02-27T03:28:29.782Z [ODDS] (serving: Smith/Urhobo)  Smith/Urhobo: 13/8 → 9/4, Broadus/Zhiyenbayeva: 4/9 → 1/3
+2026-02-27T03:28:29.782Z [EVENT] (serving: Smith/Urhobo)  sets: 4-6,2-2, game: 0-0, serving: P1
+2026-02-27T03:29:43.747Z [ODDS] (serving: Smith/Urhobo)  Smith/Urhobo: 9/4 → 7/4, Broadus/Zhiyenbayeva: 1/3 → 2/5
+2026-02-27T03:29:43.747Z [EVENT] (serving: Smith/Urhobo)  game: 15-0
+2026-02-27T03:30:14.417Z [ODDS] (serving: Smith/Urhobo)  Smith/Urhobo: 7/4 → 2/1, Broadus/Zhiyenbayeva: 2/5 → 4/11
+2026-02-27T03:30:37.868Z [ODDS] (serving: Smith/Urhobo)  Smith/Urhobo: 2/1 → 9/4, Broadus/Zhiyenbayeva: 4/11 → 1/3
+2026-02-27T03:30:37.869Z [EVENT] (serving: Smith/Urhobo)  game: 15-15
+2026-02-27T03:31:27.930Z [ODDS] (serving: Smith/Urhobo)  Smith/Urhobo: 9/4 → 7/4, Broadus/Zhiyenbayeva: 1/3 → 2/5
+2026-02-27T03:31:27.930Z [EVENT] (serving: Smith/Urhobo)  game: 30-15
+2026-02-27T03:31:53.189Z [ODDS] (serving: Smith/Urhobo)  Smith/Urhobo: 7/4 → 13/8, Broadus/Zhiyenbayeva: 2/5 → 4/9
+2026-02-27T03:31:53.189Z [EVENT] (serving: Smith/Urhobo)  game: 40-15
+2026-02-27T03:32:30.173Z [ODDS] (serving: Smith/Urhobo)  Smith/Urhobo: 13/8 → 7/4, Broadus/Zhiyenbayeva: 4/9 → 2/5
+2026-02-27T03:32:30.173Z [EVENT] (serving: Smith/Urhobo)  game: 40-30
+2026-02-27T03:32:56.330Z [ODDS] (serving: Smith/Urhobo)  Smith/Urhobo: 7/4 → 2/1, Broadus/Zhiyenbayeva: 2/5 → 4/11
+2026-02-27T03:33:09.410Z [ODDS] (serving: Smith/Urhobo)  Smith/Urhobo: 2/1 → 12/5, Broadus/Zhiyenbayeva: 4/11 → 3/10
+2026-02-27T03:33:09.410Z [EVENT] (serving: Smith/Urhobo)  game: 40-40
+2026-02-27T03:33:40.980Z [ODDS] (serving: Broadus/Zhiyenbayeva)  Smith/Urhobo: 12/5 → 13/8, Broadus/Zhiyenbayeva: 3/10 → 4/9
+2026-02-27T03:33:40.980Z [EVENT] (serving: Broadus/Zhiyenbayeva)  sets: 4-6,3-2, game: 0-0, serving: P2
+2026-02-27T03:35:03.514Z [ODDS] (serving: Broadus/Zhiyenbayeva)  Smith/Urhobo: 13/8 → 7/4, Broadus/Zhiyenbayeva: 4/9 → 2/5
+2026-02-27T03:35:03.514Z [EVENT] (serving: Broadus/Zhiyenbayeva)  game: 0-15
+2026-02-27T03:35:40.495Z [ODDS] (serving: Broadus/Zhiyenbayeva)  Smith/Urhobo: 7/4 → 13/8, Broadus/Zhiyenbayeva: 2/5 → 4/9
+2026-02-27T03:35:40.495Z [EVENT] (serving: Broadus/Zhiyenbayeva)  game: 15-15
+2026-02-27T03:36:06.655Z [ODDS] (serving: Broadus/Zhiyenbayeva)  Smith/Urhobo: 13/8 → 6/4, Broadus/Zhiyenbayeva: 4/9 → 1/2
+2026-02-27T03:36:18.831Z [ODDS] (serving: Broadus/Zhiyenbayeva)  Smith/Urhobo: 6/4 → 5/4, Broadus/Zhiyenbayeva: 1/2 → 4/7
+2026-02-27T03:36:18.831Z [EVENT] (serving: Broadus/Zhiyenbayeva)  game: 30-15
+2026-02-27T03:36:43.188Z [ODDS] (serving: Broadus/Zhiyenbayeva)  Smith/Urhobo: 5/4 → 6/4, Broadus/Zhiyenbayeva: 4/7 → 1/2
+2026-02-27T03:36:43.188Z [EVENT] (serving: Broadus/Zhiyenbayeva)  game: 30-30

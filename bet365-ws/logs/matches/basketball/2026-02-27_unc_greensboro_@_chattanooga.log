@@ -1,0 +1,255 @@
+2026-02-27T00:09:24.783Z [ODDS]  Chattanooga: 1/1 → 20/23, UNC Greensboro: 10/13 → 20/23
+2026-02-27T00:09:24.784Z [EVENT]  score: 6-2
+2026-02-27T00:10:14.847Z [EVENT]  score: 9-2
+2026-02-27T00:10:24.773Z [EVENT]  score: 9-5
+2026-02-27T00:10:44.161Z [ODDS]  Chattanooga: 20/23 → 10/13, UNC Greensboro: 20/23 → 1/1
+2026-02-27T00:10:44.161Z [EVENT]  score: 11-5
+2026-02-27T00:10:45.063Z [ODDS]  Chattanooga: 10/13 → 4/5, UNC Greensboro: 1/1 → 20/21
+2026-02-27T00:11:08.076Z [ODDS]  Chattanooga: 4/5 → 10/11, UNC Greensboro: 20/21 → 5/6
+2026-02-27T00:11:08.076Z [EVENT]  score: 11-7
+2026-02-27T00:11:32.418Z [ODDS]  Chattanooga: 10/11 → 20/23, UNC Greensboro: 5/6 → 20/23
+2026-02-27T00:11:32.418Z [EVENT]  score: 14-7
+2026-02-27T00:14:23.350Z [EVENT]  score: 15-7
+2026-02-27T00:14:23.350Z [ODDS]  Chattanooga: 20/23 → 10/11, UNC Greensboro: 20/23 → 5/6
+2026-02-27T00:14:42.744Z [ODDS]  Chattanooga: 10/11 → 10/13, UNC Greensboro: 5/6 → 1/1
+2026-02-27T00:14:42.744Z [EVENT]  score: 15-10
+2026-02-27T00:14:57.177Z [ODDS]  Chattanooga: 10/13 → 20/21, UNC Greensboro: 1/1 → 4/5
+2026-02-27T00:15:08.456Z [ODDS]  Chattanooga: 20/21 → 20/23, UNC Greensboro: 4/5 → 20/23
+2026-02-27T00:15:08.456Z [EVENT]  score: 15-12
+2026-02-27T00:15:31.001Z [ODDS]  Chattanooga: 20/23 → 5/6, UNC Greensboro: 20/23 → 10/11
+2026-02-27T00:15:38.724Z [ODDS]  Chattanooga: 5/6 → 20/23, UNC Greensboro: 10/11 → 20/23
+2026-02-27T00:15:51.747Z [ODDS]  Chattanooga: 20/23 → 4/5, UNC Greensboro: 20/23 → 20/21
+2026-02-27T00:15:51.747Z [EVENT]  score: 17-12
+2026-02-27T00:16:02.571Z [ODDS]  Chattanooga: 4/5 → 20/23, UNC Greensboro: 20/21 → 20/23
+2026-02-27T00:16:21.966Z [ODDS]  Chattanooga: 20/23 → 1/1, UNC Greensboro: 20/23 → 10/13
+2026-02-27T00:16:21.966Z [EVENT]  score: 18-12
+2026-02-27T00:16:22.414Z [ODDS]  Chattanooga: 1/1 → 5/6, UNC Greensboro: 10/13 → 10/11
+2026-02-27T00:16:42.709Z [ODDS]  Chattanooga: 5/6 → 20/23, UNC Greensboro: 10/11 → 20/23
+2026-02-27T00:16:53.082Z [ODDS]  Chattanooga: 20/23 → 5/6, UNC Greensboro: 20/23 → 10/11
+2026-02-27T00:17:33.222Z [ODDS]  Chattanooga: 5/6 → 20/23, UNC Greensboro: 10/11 → 20/23
+2026-02-27T00:17:46.302Z [EVENT]  score: 20-12
+2026-02-27T00:18:27.793Z [ODDS]  Chattanooga: 20/23 → 10/11, UNC Greensboro: 20/23 → 5/6
+2026-02-27T00:18:33.207Z [ODDS]  Chattanooga: 10/11 → 20/23, UNC Greensboro: 5/6 → 20/23
+2026-02-27T00:19:14.702Z [ODDS]  Chattanooga: 20/23 → 5/6, UNC Greensboro: 20/23 → 10/11
+2026-02-27T00:19:14.702Z [EVENT]  score: 20-15
+2026-02-27T00:19:30.034Z [ODDS]  Chattanooga: 5/6 → 10/13, UNC Greensboro: 10/11 → 1/1
+2026-02-27T00:22:24.570Z [ODDS]  Chattanooga: 10/13 → 5/6, UNC Greensboro: 1/1 → 10/11
+2026-02-27T00:22:30.480Z [ODDS]  Chattanooga: 5/6 → 10/13, UNC Greensboro: 10/11 → 1/1
+2026-02-27T00:22:38.101Z [ODDS]  Chattanooga: 10/13 → 5/6, UNC Greensboro: 1/1 → 10/11
+2026-02-27T00:22:57.045Z [ODDS]  Chattanooga: 5/6 → 20/23, UNC Greensboro: 10/11 → 20/23
+2026-02-27T00:22:57.045Z [EVENT]  score: 23-15
+2026-02-27T00:23:18.240Z [ODDS]  Chattanooga: 20/23 → 5/6, UNC Greensboro: 20/23 → 10/11
+2026-02-27T00:23:25.457Z [ODDS]  Chattanooga: 5/6 → 20/23, UNC Greensboro: 10/11 → 20/23
+2026-02-27T00:23:25.457Z [EVENT]  score: 26-15
+2026-02-27T00:25:15.142Z [ODDS]  Chattanooga: 20/23 → 5/6, UNC Greensboro: 20/23 → 10/11
+2026-02-27T00:25:15.142Z [EVENT]  score: 26-18
+2026-02-27T00:25:23.620Z [ODDS]  Chattanooga: 5/6 → 20/23, UNC Greensboro: 10/11 → 20/23
+2026-02-27T00:27:01.491Z [ODDS]  Chattanooga: 20/23 → 10/11, UNC Greensboro: 20/23 → 5/6
+2026-02-27T00:27:08.707Z [ODDS]  Chattanooga: 10/11 → 20/23, UNC Greensboro: 5/6 → 20/23
+2026-02-27T00:27:17.307Z [ODDS]  Chattanooga: 20/23 → 10/11, UNC Greensboro: 20/23 → 5/6
+2026-02-27T00:28:04.180Z [ODDS]  Chattanooga: 10/11 → 20/23, UNC Greensboro: 5/6 → 20/23
+2026-02-27T00:28:49.774Z [ODDS]  Chattanooga: 20/23 → 10/11, UNC Greensboro: 20/23 → 5/6
+2026-02-27T00:29:14.084Z [ODDS]  Chattanooga: 10/11 → 20/23, UNC Greensboro: 5/6 → 20/23
+2026-02-27T00:29:37.988Z [EVENT]  score: 26-19
+2026-02-27T00:30:01.440Z [ODDS]  Chattanooga: 20/23 → 5/6, UNC Greensboro: 20/23 → 10/11
+2026-02-27T00:30:01.440Z [EVENT]  score: 26-20
+2026-02-27T00:30:26.748Z [EVENT]  score: 28-20
+2026-02-27T00:30:46.614Z [ODDS]  Chattanooga: 5/6 → 20/23, UNC Greensboro: 10/11 → 20/23
+2026-02-27T00:30:57.857Z [ODDS]  Chattanooga: 20/23 → 5/6, UNC Greensboro: 20/23 → 10/11
+2026-02-27T00:31:07.286Z [ODDS]  Chattanooga: 5/6 → 20/23, UNC Greensboro: 10/11 → 20/23
+2026-02-27T00:31:07.286Z [EVENT]  score: 28-23
+2026-02-27T00:31:28.488Z [ODDS]  Chattanooga: 20/23 → 5/6, UNC Greensboro: 20/23 → 10/11
+2026-02-27T00:34:39.783Z [ODDS]  Chattanooga: 5/6 → 20/23, UNC Greensboro: 10/11 → 20/23
+2026-02-27T00:35:16.749Z [ODDS]  Chattanooga: 20/23 → 5/6, UNC Greensboro: 20/23 → 10/11
+2026-02-27T00:35:44.660Z [ODDS]  Chattanooga: 5/6 → 20/23, UNC Greensboro: 10/11 → 20/23
+2026-02-27T00:35:59.995Z [EVENT]  score: 30-23
+2026-02-27T00:36:20.750Z [ODDS]  Chattanooga: 20/23 → 10/11, UNC Greensboro: 20/23 → 5/6
+2026-02-27T00:36:48.254Z [ODDS]  Chattanooga: 10/11 → 20/23, UNC Greensboro: 5/6 → 20/23
+2026-02-27T00:37:04.066Z [EVENT]  score: 30-24
+2026-02-27T00:37:48.239Z [ODDS]  Chattanooga: 20/23 → 10/11, UNC Greensboro: 20/23 → 5/6
+2026-02-27T00:37:48.240Z [EVENT]  score: 33-24
+2026-02-27T00:37:56.808Z [ODDS]  Chattanooga: 10/11 → 5/6, UNC Greensboro: 5/6 → 10/11
+2026-02-27T00:38:03.663Z [ODDS]  Chattanooga: 5/6 → 20/23, UNC Greensboro: 10/11 → 20/23
+2026-02-27T00:38:03.664Z [EVENT]  score: 33-26
+2026-02-27T00:38:31.126Z [ODDS]  Chattanooga: 20/23 → 10/11, UNC Greensboro: 20/23 → 5/6
+2026-02-27T00:38:33.836Z [ODDS]  Chattanooga: 10/11 → 5/6, UNC Greensboro: 5/6 → 10/11
+2026-02-27T00:38:36.637Z [ODDS]  Chattanooga: 5/6 → 20/23, UNC Greensboro: 10/11 → 20/23
+2026-02-27T00:39:00.496Z [EVENT]  score: 33-28
+2026-02-27T00:39:59.075Z [ODDS]  Chattanooga: 20/23 → 10/11, UNC Greensboro: 20/23 → 5/6
+2026-02-27T00:40:26.206Z [ODDS]  Chattanooga: 10/11 → 20/23, UNC Greensboro: 5/6 → 20/23
+2026-02-27T00:41:09.884Z [ODDS]  Chattanooga: 20/23 → 10/11, UNC Greensboro: 20/23 → 5/6
+2026-02-27T00:41:09.884Z [EVENT]  score: 34-28
+2026-02-27T00:43:51.830Z [ODDS]  Chattanooga: 10/11 → 20/23, UNC Greensboro: 5/6 → 20/23
+2026-02-27T00:44:05.859Z [ODDS]  Chattanooga: 20/23 → 5/6, UNC Greensboro: 20/23 → 10/11
+2026-02-27T00:44:05.859Z [EVENT]  score: 34-29
+2026-02-27T00:44:25.626Z [ODDS]  Chattanooga: 5/6 → 4/5, UNC Greensboro: 10/11 → 20/21
+2026-02-27T00:44:25.626Z [EVENT]  score: 34-30
+2026-02-27T00:44:47.274Z [ODDS]  Chattanooga: 4/5 → 5/6, UNC Greensboro: 20/21 → 10/11
+2026-02-27T00:44:48.174Z [ODDS]  Chattanooga: 5/6 → 20/27, UNC Greensboro: 10/11 → 21/20
+2026-02-27T00:44:58.096Z [ODDS]  Chattanooga: 20/27 → 10/13, UNC Greensboro: 21/20 → 1/1
+2026-02-27T00:45:00.850Z [ODDS]  Chattanooga: 10/13 → 1/1, UNC Greensboro: 1/1 → 10/13
+2026-02-27T00:45:09.859Z [ODDS]  Chattanooga: 1/1 → 10/11, UNC Greensboro: 10/13 → 5/6
+2026-02-27T00:45:30.121Z [ODDS]  Chattanooga: 10/11 → 1/1, UNC Greensboro: 5/6 → 10/13
+2026-02-27T00:45:41.911Z [ODDS]  Chattanooga: 1/1 → 10/11, UNC Greensboro: 10/13 → 5/6
+2026-02-27T00:45:41.911Z [EVENT]  score: 36-30
+2026-02-27T00:45:58.080Z [ODDS]  Chattanooga: 10/11 → 5/6, UNC Greensboro: 5/6 → 10/11
+2026-02-27T00:45:58.080Z [EVENT]  score: 36-32
+2026-02-27T00:46:21.532Z [ODDS]  Chattanooga: 5/6 → 20/23, UNC Greensboro: 10/11 → 20/23
+2026-02-27T00:46:41.005Z [EVENT]  score: 37-32
+2026-02-27T00:47:00.351Z [ODDS]  Chattanooga: 20/23 → 10/11, UNC Greensboro: 20/23 → 5/6
+2026-02-27T00:47:00.351Z [EVENT]  score: 38-32
+2026-02-27T00:47:06.633Z [ODDS]  Chattanooga: 10/11 → 5/6, UNC Greensboro: 5/6 → 10/11
+2026-02-27T00:47:15.201Z [ODDS]  Chattanooga: 5/6 → 1/1, UNC Greensboro: 10/11 → 10/13
+2026-02-27T00:47:15.201Z [EVENT]  score: 38-35
+2026-02-27T00:47:46.320Z [ODDS]  Chattanooga: 1/1 → 10/11, UNC Greensboro: 10/13 → 5/6
+2026-02-27T00:47:51.281Z [ODDS]  Chattanooga: 10/11 → 1/1, UNC Greensboro: 5/6 → 10/13
+2026-02-27T00:48:34.578Z [ODDS]  Chattanooga: 1/1 → 10/11, UNC Greensboro: 10/13 → 5/6
+2026-02-27T00:48:45.401Z [ODDS]  Chattanooga: 10/11 → 20/21, UNC Greensboro: 5/6 → 4/5
+2026-02-27T00:48:49.511Z [ODDS]  Chattanooga: 20/21 → 20/27, UNC Greensboro: 4/5 → 21/20
+2026-02-27T00:49:30.052Z [ODDS]  Chattanooga: 20/27 → 10/13, UNC Greensboro: 21/20 → 1/1
+2026-02-27T00:49:39.523Z [ODDS]  Chattanooga: 10/13 → 20/21, UNC Greensboro: 1/1 → 4/5
+2026-02-27T00:49:44.507Z [ODDS]  Chattanooga: 20/21 → 5/6, UNC Greensboro: 4/5 → 10/11
+2026-02-27T00:49:44.507Z [EVENT]  score: 38-37
+2026-02-27T00:49:58.465Z [ODDS]  Chattanooga: 5/6 → 20/23, UNC Greensboro: 10/11 → 20/23
+2026-02-27T00:50:15.154Z [ODDS]  Chattanooga: 20/23 → 5/6, UNC Greensboro: 20/23 → 10/11
+2026-02-27T00:51:12.431Z [ODDS]  Chattanooga: 5/6 → 20/23, UNC Greensboro: 10/11 → 20/23
+2026-02-27T00:51:45.804Z [ODDS]  Chattanooga: 20/23 → 10/11, UNC Greensboro: 20/23 → 5/6
+2026-02-27T00:51:47.607Z [ODDS]  Chattanooga: 10/11 → 20/23, UNC Greensboro: 5/6 → 20/23
+2026-02-27T00:51:56.634Z [ODDS]  Chattanooga: 20/23 → 5/6, UNC Greensboro: 20/23 → 10/11
+2026-02-27T01:09:16.060Z [ODDS]  Chattanooga: 5/6 → 20/23, UNC Greensboro: 10/11 → 20/23
+2026-02-27T01:09:49.891Z [ODDS]  Chattanooga: 20/23 → 20/21, UNC Greensboro: 20/23 → 4/5
+2026-02-27T01:10:00.713Z [ODDS]  Chattanooga: 20/21 → 20/23, UNC Greensboro: 4/5 → 20/23
+2026-02-27T01:10:18.297Z [ODDS]  Chattanooga: 20/23 → 10/11, UNC Greensboro: 20/23 → 5/6
+2026-02-27T01:10:18.297Z [EVENT]  score: 39-37
+2026-02-27T01:10:45.357Z [ODDS]  Chattanooga: 10/11 → 20/23, UNC Greensboro: 5/6 → 20/23
+2026-02-27T01:10:45.357Z [EVENT]  score: 41-37
+2026-02-27T01:11:36.776Z [EVENT]  score: 42-37
+2026-02-27T01:11:51.657Z [ODDS]  Chattanooga: 20/23 → 10/11, UNC Greensboro: 20/23 → 5/6
+2026-02-27T01:11:51.657Z [EVENT]  score: 43-37
+2026-02-27T01:12:13.305Z [ODDS]  Chattanooga: 10/11 → 20/23, UNC Greensboro: 5/6 → 20/23
+2026-02-27T01:12:13.305Z [EVENT]  score: 43-39
+2026-02-27T01:12:31.868Z [ODDS]  Chattanooga: 20/23 → 10/11, UNC Greensboro: 20/23 → 5/6
+2026-02-27T01:12:31.868Z [EVENT]  score: 45-39
+2026-02-27T01:12:43.072Z [ODDS]  Chattanooga: 10/11 → 5/6, UNC Greensboro: 5/6 → 10/11
+2026-02-27T01:12:51.191Z [ODDS]  Chattanooga: 5/6 → 20/23, UNC Greensboro: 10/11 → 20/23
+2026-02-27T01:13:06.976Z [EVENT]  score: 47-39
+2026-02-27T01:13:21.857Z [EVENT]  score: 47-42
+2026-02-27T01:13:23.211Z [ODDS]  Chattanooga: 20/23 → 10/11, UNC Greensboro: 20/23 → 5/6
+2026-02-27T01:13:31.780Z [ODDS]  Chattanooga: 10/11 → 20/23, UNC Greensboro: 5/6 → 20/23
+2026-02-27T01:13:43.509Z [ODDS]  Chattanooga: 20/23 → 10/11, UNC Greensboro: 20/23 → 5/6
+2026-02-27T01:13:50.724Z [EVENT]  score: 49-42
+2026-02-27T01:16:46.182Z [ODDS]  Chattanooga: 10/11 → 5/6, UNC Greensboro: 5/6 → 10/11
+2026-02-27T01:17:07.811Z [ODDS]  Chattanooga: 5/6 → 20/23, UNC Greensboro: 10/11 → 20/23
+2026-02-27T01:17:07.811Z [EVENT]  score: 49-45
+2026-02-27T01:20:59.626Z [ODDS]  Chattanooga: 20/23 → 10/13, UNC Greensboro: 20/23 → 1/1
+2026-02-27T01:20:59.626Z [EVENT]  score: 49-47
+2026-02-27T01:21:12.706Z [ODDS]  Chattanooga: 10/13 → 4/5, UNC Greensboro: 1/1 → 20/21
+2026-02-27T01:21:42.023Z [ODDS]  Chattanooga: 4/5 → 20/23, UNC Greensboro: 20/21 → 20/23
+2026-02-27T01:21:42.023Z [EVENT]  score: 51-47
+2026-02-27T01:22:43.357Z [EVENT]  score: 53-47
+2026-02-27T01:25:32.935Z [ODDS]  Chattanooga: 20/23 → 10/11, UNC Greensboro: 20/23 → 5/6
+2026-02-27T01:25:32.935Z [EVENT]  score: 53-48
+2026-02-27T01:25:40.602Z [ODDS]  Chattanooga: 10/11 → 20/23, UNC Greensboro: 5/6 → 20/23
+2026-02-27T01:26:15.329Z [EVENT]  score: 53-50
+2026-02-27T01:26:19.388Z [ODDS]  Chattanooga: 20/23 → 10/11, UNC Greensboro: 20/23 → 5/6
+2026-02-27T01:26:37.881Z [ODDS]  Chattanooga: 10/11 → 20/23, UNC Greensboro: 5/6 → 20/23
+2026-02-27T01:26:37.881Z [EVENT]  score: 56-50
+2026-02-27T01:27:14.862Z [ODDS]  Chattanooga: 20/23 → 5/6, UNC Greensboro: 20/23 → 10/11
+2026-02-27T01:27:14.862Z [EVENT]  score: 59-50
+2026-02-27T01:27:28.858Z [ODDS]  Chattanooga: 5/6 → 10/11, UNC Greensboro: 10/11 → 5/6
+2026-02-27T01:27:33.352Z [ODDS]  Chattanooga: 10/11 → 5/6, UNC Greensboro: 5/6 → 10/11
+2026-02-27T01:28:01.319Z [ODDS]  Chattanooga: 5/6 → 20/23, UNC Greensboro: 10/11 → 20/23
+2026-02-27T01:28:22.967Z [EVENT]  score: 60-50
+2026-02-27T01:28:44.166Z [EVENT]  score: 61-50
+2026-02-27T01:29:26.560Z [ODDS]  Chattanooga: 20/23 → 10/11, UNC Greensboro: 20/23 → 5/6
+2026-02-27T01:29:39.188Z [ODDS]  Chattanooga: 10/11 → 20/23, UNC Greensboro: 5/6 → 20/23
+2026-02-27T01:29:39.188Z [EVENT]  score: 63-50
+2026-02-27T01:29:48.207Z [ODDS]  Chattanooga: 20/23 → 10/11, UNC Greensboro: 20/23 → 5/6
+2026-02-27T01:30:08.051Z [ODDS]  Chattanooga: 10/11 → 20/23, UNC Greensboro: 5/6 → 20/23
+2026-02-27T01:30:18.424Z [ODDS]  Chattanooga: 20/23 → 10/11, UNC Greensboro: 20/23 → 5/6
+2026-02-27T01:30:18.424Z [EVENT]  score: 63-53
+2026-02-27T01:30:23.385Z [ODDS]  Chattanooga: 10/11 → 5/6, UNC Greensboro: 5/6 → 10/11
+2026-02-27T01:30:45.484Z [ODDS]  Chattanooga: 5/6 → 20/23, UNC Greensboro: 10/11 → 20/23
+2026-02-27T01:30:45.484Z [EVENT]  score: 63-55
+2026-02-27T01:31:03.524Z [EVENT]  score: 65-55
+2026-02-27T01:34:14.750Z [EVENT]  score: 66-55
+2026-02-27T01:34:14.750Z [ODDS]  Chattanooga: 20/23 → 5/6, UNC Greensboro: 20/23 → 10/11
+2026-02-27T01:35:02.109Z [ODDS]  Chattanooga: 5/6 → 10/11, UNC Greensboro: 10/11 → 5/6
+2026-02-27T01:35:02.109Z [EVENT]  score: 69-55
+2026-02-27T01:35:20.150Z [ODDS]  Chattanooga: 10/11 → 20/23, UNC Greensboro: 5/6 → 20/23
+2026-02-27T01:37:02.528Z [ODDS]  Chattanooga: 20/23 → 10/11, UNC Greensboro: 20/23 → 5/6
+2026-02-27T01:37:02.528Z [EVENT]  score: 69-58
+2026-02-27T01:37:16.509Z [ODDS]  Chattanooga: 10/11 → 20/21, UNC Greensboro: 5/6 → 4/5
+2026-02-27T01:37:21.469Z [ODDS]  Chattanooga: 20/21 → 4/5, UNC Greensboro: 4/5 → 20/21
+2026-02-27T01:40:23.910Z [ODDS]  Chattanooga: 4/5 → 5/6, UNC Greensboro: 20/21 → 10/11
+2026-02-27T01:40:24.361Z [ODDS]  Chattanooga: 5/6 → 20/23, UNC Greensboro: 10/11 → 20/23
+2026-02-27T01:40:24.361Z [EVENT]  score: 69-61
+2026-02-27T01:40:46.011Z [ODDS]  Chattanooga: 20/23 → 20/21, UNC Greensboro: 20/23 → 4/5
+2026-02-27T01:40:46.011Z [EVENT]  score: 71-61
+2026-02-27T01:41:18.037Z [ODDS]  Chattanooga: 20/21 → 10/11, UNC Greensboro: 4/5 → 5/6
+2026-02-27T01:41:18.037Z [EVENT]  score: 72-61
+2026-02-27T01:41:18.488Z [ODDS]  Chattanooga: 10/11 → 5/6, UNC Greensboro: 5/6 → 10/11
+2026-02-27T01:41:34.726Z [ODDS]  Chattanooga: 5/6 → 20/23, UNC Greensboro: 10/11 → 20/23
+2026-02-27T01:41:50.963Z [ODDS]  Chattanooga: 20/23 → 10/11, UNC Greensboro: 20/23 → 5/6
+2026-02-27T01:42:07.648Z [ODDS]  Chattanooga: 10/11 → 5/6, UNC Greensboro: 5/6 → 10/11
+2026-02-27T01:42:07.648Z [EVENT]  score: 73-61
+2026-02-27T01:42:26.145Z [ODDS]  Chattanooga: 5/6 → 20/23, UNC Greensboro: 10/11 → 20/23
+2026-02-27T01:42:26.145Z [EVENT]  score: 74-61
+2026-02-27T01:46:47.283Z [ODDS]  Chattanooga: 20/23 → 4/5, UNC Greensboro: 20/23 → 20/21
+2026-02-27T01:47:17.049Z [ODDS]  Chattanooga: 4/5 → 10/11, UNC Greensboro: 20/21 → 5/6
+2026-02-27T01:47:17.049Z [EVENT]  score: 74-62
+2026-02-27T01:47:31.932Z [ODDS]  Chattanooga: 10/11 → 20/23, UNC Greensboro: 5/6 → 20/23
+2026-02-27T01:47:31.932Z [EVENT]  score: 74-63
+2026-02-27T01:48:05.306Z [ODDS]  Chattanooga: 20/23 → 4/5, UNC Greensboro: 20/23 → 20/21
+2026-02-27T01:48:37.328Z [ODDS]  Chattanooga: 4/5 → 10/11, UNC Greensboro: 20/21 → 5/6
+2026-02-27T01:48:37.328Z [EVENT]  score: 74-64
+2026-02-27T01:48:53.564Z [ODDS]  Chattanooga: 10/11 → 20/23, UNC Greensboro: 5/6 → 20/23
+2026-02-27T01:48:53.564Z [EVENT]  score: 74-65
+2026-02-27T01:49:28.744Z [ODDS]  Chattanooga: 20/23 → 10/11, UNC Greensboro: 20/23 → 5/6
+2026-02-27T01:49:39.114Z [ODDS]  Chattanooga: 10/11 → 5/6, UNC Greensboro: 5/6 → 10/11
+2026-02-27T01:50:22.862Z [ODDS]  Chattanooga: 5/6 → 20/23, UNC Greensboro: 10/11 → 20/23
+2026-02-27T01:50:22.862Z [EVENT]  score: 75-65
+2026-02-27T01:50:43.820Z [EVENT]  score: 76-65
+2026-02-27T01:50:51.276Z [ODDS]  Chattanooga: 20/23 → 10/11, UNC Greensboro: 20/23 → 5/6
+2026-02-27T01:51:21.044Z [EVENT]  score: 78-65
+2026-02-27T01:51:27.807Z [ODDS]  Chattanooga: 10/11 → 20/21, UNC Greensboro: 5/6 → 4/5
+2026-02-27T01:51:40.435Z [EVENT]  score: 78-67
+2026-02-27T01:51:44.946Z [ODDS]  Chattanooga: 20/21 → 4/5, UNC Greensboro: 4/5 → 20/21
+2026-02-27T01:51:52.612Z [EVENT]  score: 81-67
+2026-02-27T01:52:11.103Z [ODDS]  Chattanooga: 4/5 → 5/6, UNC Greensboro: 20/21 → 10/11
+2026-02-27T01:52:33.362Z [EVENT]  score: 81-70
+2026-02-27T01:52:40.577Z [ODDS]  Chattanooga: 5/6 → 20/23, UNC Greensboro: 10/11 → 20/23
+2026-02-27T01:53:18.913Z [EVENT]  score: 81-72
+2026-02-27T01:56:23.374Z [ODDS]  Chattanooga: 20/23 → 10/11, UNC Greensboro: 20/23 → 5/6
+2026-02-27T01:56:23.374Z [EVENT]  score: 81-74
+2026-02-27T01:56:55.395Z [ODDS]  Chattanooga: 10/11 → 20/21, UNC Greensboro: 5/6 → 4/5
+2026-02-27T01:57:22.008Z [ODDS]  Chattanooga: 20/21 → 10/13, UNC Greensboro: 4/5 → 1/1
+2026-02-27T01:57:22.008Z [EVENT]  score: 81-76
+2026-02-27T01:57:31.476Z [ODDS]  Chattanooga: 10/13 → 5/6, UNC Greensboro: 1/1 → 10/11
+2026-02-27T01:57:36.887Z [ODDS]  Chattanooga: 5/6 → 10/13, UNC Greensboro: 10/11 → 1/1
+2026-02-27T01:57:50.869Z [ODDS]  Chattanooga: 10/13 → 20/23, UNC Greensboro: 1/1 → 20/23
+2026-02-27T01:58:02.594Z [ODDS]  Chattanooga: 20/23 → 10/11, UNC Greensboro: 20/23 → 5/6
+2026-02-27T01:58:58.974Z [ODDS]  Chattanooga: 10/11 → 20/23, UNC Greensboro: 5/6 → 20/23
+2026-02-27T01:58:58.974Z [EVENT]  score: 81-77
+2026-02-27T01:59:17.463Z [ODDS]  Chattanooga: 20/23 → 5/6, UNC Greensboro: 20/23 → 10/11
+2026-02-27T01:59:17.463Z [EVENT]  score: 81-78
+2026-02-27T01:59:33.250Z [ODDS]  Chattanooga: 5/6 → 20/23, UNC Greensboro: 10/11 → 20/23
+2026-02-27T02:01:17.885Z [ODDS]  Chattanooga: 20/23 → 20/21, UNC Greensboro: 20/23 → 4/5
+2026-02-27T02:01:57.574Z [ODDS]  Chattanooga: 20/21 → 5/6, UNC Greensboro: 4/5 → 10/11
+2026-02-27T02:01:57.574Z [EVENT]  score: 82-78
+2026-02-27T02:02:23.282Z [ODDS]  Chattanooga: 5/6 → 20/23, UNC Greensboro: 10/11 → 20/23
+2026-02-27T02:02:23.282Z [EVENT]  score: 83-78
+2026-02-27T02:02:39.519Z [ODDS]  Chattanooga: 20/23 → 1/1, UNC Greensboro: 20/23 → 10/13
+2026-02-27T02:03:12.893Z [ODDS]  Chattanooga: 1/1 → 10/11, UNC Greensboro: 10/13 → 5/6
+2026-02-27T02:03:12.893Z [EVENT]  score: 83-79
+2026-02-27T02:03:39.500Z [ODDS]  Chattanooga: 10/11 → 20/23, UNC Greensboro: 5/6 → 20/23
+2026-02-27T02:03:39.500Z [EVENT]  score: 83-80
+2026-02-27T02:04:23.249Z [ODDS]  Chattanooga: 20/23 → 10/11, UNC Greensboro: 20/23 → 5/6
+2026-02-27T02:04:28.209Z [ODDS]  Chattanooga: 10/11 → 20/23, UNC Greensboro: 5/6 → 20/23
+2026-02-27T02:06:07.431Z [ODDS]  Chattanooga: 20/23 → 10/11, UNC Greensboro: 20/23 → 5/6
+2026-02-27T02:06:10.137Z [ODDS]  Chattanooga: 10/11 → 20/27, UNC Greensboro: 5/6 → 21/20
+2026-02-27T02:06:38.099Z [ODDS]  Chattanooga: 20/27 → 20/23, UNC Greensboro: 21/20 → 20/23
+2026-02-27T02:06:38.099Z [EVENT]  score: 84-80
+2026-02-27T02:07:02.904Z [ODDS]  Chattanooga: 20/23 → 1/1, UNC Greensboro: 20/23 → 10/13
+2026-02-27T02:07:02.905Z [EVENT]  score: 85-80
+2026-02-27T02:08:52.856Z [ODDS]  Chattanooga: 1/1 → 0/0, UNC Greensboro: 10/13 → 0/0

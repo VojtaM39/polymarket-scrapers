@@ -1,0 +1,203 @@
+2026-02-27T00:08:27.957Z [EVENT]  score: 7-11
+2026-02-27T00:12:06.750Z [EVENT]  score: 10-11
+2026-02-27T00:13:45.013Z [EVENT]  score: 11-11
+2026-02-27T00:14:02.603Z [EVENT]  score: 12-11
+2026-02-27T00:14:17.037Z [ODDS]  Florida Atlantic: 20/23 → 10/11, Temple: 20/23 → 5/6
+2026-02-27T00:14:26.507Z [ODDS]  Florida Atlantic: 10/11 → 20/23, Temple: 5/6 → 20/23
+2026-02-27T00:14:26.507Z [EVENT]  score: 14-11
+2026-02-27T00:15:47.688Z [ODDS]  Florida Atlantic: 20/23 → 10/11, Temple: 20/23 → 5/6
+2026-02-27T00:15:47.688Z [EVENT]  score: 15-11
+2026-02-27T00:16:06.188Z [EVENT]  score: 16-11
+2026-02-27T00:16:17.906Z [ODDS]  Florida Atlantic: 10/11 → 20/21, Temple: 5/6 → 4/5
+2026-02-27T00:16:21.513Z [ODDS]  Florida Atlantic: 20/21 → 10/13, Temple: 4/5 → 1/1
+2026-02-27T00:20:23.702Z [ODDS]  Florida Atlantic: 10/13 → 20/21, Temple: 1/1 → 4/5
+2026-02-27T00:20:49.415Z [ODDS]  Florida Atlantic: 20/21 → 10/13, Temple: 4/5 → 1/1
+2026-02-27T00:21:20.991Z [ODDS]  Florida Atlantic: 10/13 → 20/23, Temple: 1/1 → 20/23
+2026-02-27T00:21:20.991Z [EVENT]  score: 18-11
+2026-02-27T00:21:35.862Z [ODDS]  Florida Atlantic: 20/23 → 10/13, Temple: 20/23 → 1/1
+2026-02-27T00:21:35.862Z [EVENT]  score: 18-13
+2026-02-27T00:21:43.078Z [ODDS]  Florida Atlantic: 10/13 → 4/5, Temple: 1/1 → 20/21
+2026-02-27T00:21:49.843Z [ODDS]  Florida Atlantic: 4/5 → 20/23, Temple: 20/21 → 20/23
+2026-02-27T00:21:49.843Z [EVENT]  score: 20-13
+2026-02-27T00:22:17.804Z [EVENT]  score: 23-13
+2026-02-27T00:22:29.533Z [EVENT]  score: 20-13
+2026-02-27T00:22:40.358Z [ODDS]  Florida Atlantic: 20/23 → 20/21, Temple: 20/23 → 4/5
+2026-02-27T00:22:40.358Z [EVENT]  score: 20-16
+2026-02-27T00:22:43.513Z [ODDS]  Florida Atlantic: 20/21 → 20/23, Temple: 4/5 → 20/23
+2026-02-27T00:22:48.475Z [EVENT]  score: 20-18
+2026-02-27T00:23:28.615Z [ODDS]  Florida Atlantic: 20/23 → 10/11, Temple: 20/23 → 5/6
+2026-02-27T00:23:44.852Z [ODDS]  Florida Atlantic: 10/11 → 1/1, Temple: 5/6 → 10/13
+2026-02-27T00:23:44.853Z [EVENT]  score: 23-18
+2026-02-27T00:24:01.089Z [ODDS]  Florida Atlantic: 1/1 → 4/5, Temple: 10/13 → 20/21
+2026-02-27T00:24:21.381Z [ODDS]  Florida Atlantic: 4/5 → 5/6, Temple: 20/21 → 10/11
+2026-02-27T00:24:26.793Z [ODDS]  Florida Atlantic: 5/6 → 10/13, Temple: 10/11 → 1/1
+2026-02-27T00:24:40.774Z [ODDS]  Florida Atlantic: 10/13 → 5/6, Temple: 1/1 → 10/11
+2026-02-27T00:24:40.774Z [EVENT]  score: 23-21
+2026-02-27T00:25:07.834Z [ODDS]  Florida Atlantic: 5/6 → 10/11, Temple: 10/11 → 5/6
+2026-02-27T00:25:07.835Z [EVENT]  score: 25-21
+2026-02-27T00:25:48.934Z [ODDS]  Florida Atlantic: 10/11 → 5/6, Temple: 5/6 → 10/11
+2026-02-27T00:25:48.934Z [EVENT]  score: 25-23
+2026-02-27T00:26:19.995Z [ODDS]  Florida Atlantic: 5/6 → 10/13, Temple: 10/11 → 1/1
+2026-02-27T00:26:19.996Z [EVENT]  score: 28-23
+2026-02-27T00:26:29.484Z [ODDS]  Florida Atlantic: 10/13 → 5/6, Temple: 1/1 → 10/11
+2026-02-27T00:26:36.755Z [ODDS]  Florida Atlantic: 5/6 → 4/5, Temple: 10/11 → 20/21
+2026-02-27T00:30:44.736Z [ODDS]  Florida Atlantic: 4/5 → 20/23, Temple: 20/21 → 20/23
+2026-02-27T00:30:58.265Z [ODDS]  Florida Atlantic: 20/23 → 10/11, Temple: 20/23 → 5/6
+2026-02-27T00:30:58.265Z [EVENT]  score: 31-23
+2026-02-27T00:31:14.570Z [ODDS]  Florida Atlantic: 10/11 → 20/23, Temple: 5/6 → 20/23
+2026-02-27T00:31:14.570Z [EVENT]  score: 31-25
+2026-02-27T00:32:31.628Z [ODDS]  Florida Atlantic: 20/23 → 10/11, Temple: 20/23 → 5/6, Florida Atlantic: 10/11 → 20/23, Temple: 5/6 → 20/23
+2026-02-27T00:32:31.628Z [EVENT]  score: 31-26
+2026-02-27T00:32:31.628Z [ODDS]  Florida Atlantic: 20/23 → 10/11, Temple: 20/23 → 5/6, Florida Atlantic: 10/11 → 20/23, Temple: 5/6 → 20/23
+2026-02-27T00:33:07.257Z [ODDS]  Florida Atlantic: 20/23 → 4/5, Temple: 20/23 → 20/21
+2026-02-27T00:33:30.258Z [ODDS]  Florida Atlantic: 4/5 → 20/23, Temple: 20/21 → 20/23
+2026-02-27T00:33:30.258Z [EVENT]  score: 31-29
+2026-02-27T00:33:54.611Z [ODDS]  Florida Atlantic: 20/23 → 10/11, Temple: 20/23 → 5/6
+2026-02-27T00:34:24.936Z [ODDS]  Florida Atlantic: 10/11 → 20/21, Temple: 5/6 → 4/5
+2026-02-27T00:34:24.936Z [EVENT]  score: 32-29
+2026-02-27T00:34:45.180Z [EVENT]  score: 33-29
+2026-02-27T00:34:53.299Z [ODDS]  Florida Atlantic: 20/21 → 1/1, Temple: 4/5 → 10/13
+2026-02-27T00:35:10.401Z [ODDS]  Florida Atlantic: 1/1 → 20/23, Temple: 10/13 → 20/23
+2026-02-27T00:35:10.401Z [EVENT]  score: 33-31
+2026-02-27T00:35:35.640Z [ODDS]  Florida Atlantic: 20/23 → 1/1, Temple: 20/23 → 10/13
+2026-02-27T00:35:35.640Z [EVENT]  score: 35-31
+2026-02-27T00:35:53.230Z [ODDS]  Florida Atlantic: 1/1 → 4/5, Temple: 10/13 → 20/21
+2026-02-27T00:36:11.720Z [ODDS]  Florida Atlantic: 4/5 → 20/23, Temple: 20/21 → 20/23
+2026-02-27T00:36:11.720Z [EVENT]  score: 38-31
+2026-02-27T00:36:31.352Z [ODDS]  Florida Atlantic: 20/23 → 5/6, Temple: 20/23 → 10/11
+2026-02-27T00:36:58.174Z [ODDS]  Florida Atlantic: 5/6 → 10/11, Temple: 10/11 → 5/6
+2026-02-27T00:36:58.174Z [EVENT]  score: 41-31
+2026-02-27T00:37:02.685Z [ODDS]  Florida Atlantic: 10/11 → 5/6, Temple: 5/6 → 10/11
+2026-02-27T00:41:04.472Z [ODDS]  Florida Atlantic: 5/6 → 20/23, Temple: 10/11 → 20/23
+2026-02-27T00:42:18.541Z [ODDS]  Florida Atlantic: 20/23 → 10/11, Temple: 20/23 → 5/6
+2026-02-27T00:42:18.541Z [EVENT]  score: 42-31
+2026-02-27T00:42:33.319Z [ODDS]  Florida Atlantic: 10/11 → 5/6, Temple: 5/6 → 10/11
+2026-02-27T00:42:34.673Z [ODDS]  Florida Atlantic: 5/6 → 10/11, Temple: 10/11 → 5/6
+2026-02-27T00:42:34.673Z [EVENT]  score: 42-33
+2026-02-27T00:43:09.401Z [ODDS]  Florida Atlantic: 10/11 → 20/23, Temple: 5/6 → 20/23
+2026-02-27T00:43:51.830Z [EVENT]  score: 42-35
+2026-02-27T00:44:06.681Z [EVENT]  score: 44-35
+2026-02-27T00:44:37.352Z [EVENT]  score: 44-38
+2026-02-27T01:03:35.691Z [ODDS]  Florida Atlantic: 20/23 → 5/6, Temple: 20/23 → 10/11
+2026-02-27T01:03:35.691Z [EVENT]  score: 44-40
+2026-02-27T01:03:58.240Z [ODDS]  Florida Atlantic: 5/6 → 20/23, Temple: 10/11 → 20/23
+2026-02-27T01:03:58.692Z [ODDS]  Florida Atlantic: 20/23 → 5/6, Temple: 20/23 → 10/11
+2026-02-27T01:04:17.634Z [ODDS]  Florida Atlantic: 5/6 → 20/21, Temple: 10/11 → 4/5
+2026-02-27T01:04:38.830Z [ODDS]  Florida Atlantic: 20/21 → 10/13, Temple: 4/5 → 1/1
+2026-02-27T01:04:58.675Z [ODDS]  Florida Atlantic: 10/13 → 20/27, Temple: 1/1 → 21/20
+2026-02-27T01:04:58.675Z [EVENT]  score: 44-41
+2026-02-27T01:05:10.400Z [ODDS]  Florida Atlantic: 20/27 → 10/13, Temple: 21/20 → 1/1
+2026-02-27T01:05:12.655Z [ODDS]  Florida Atlantic: 10/13 → 1/1, Temple: 1/1 → 10/13
+2026-02-27T01:05:23.930Z [ODDS]  Florida Atlantic: 1/1 → 5/6, Temple: 10/13 → 10/11
+2026-02-27T01:05:23.930Z [EVENT]  score: 44-43
+2026-02-27T01:05:42.423Z [ODDS]  Florida Atlantic: 5/6 → 20/23, Temple: 10/11 → 20/23
+2026-02-27T01:05:42.874Z [ODDS]  Florida Atlantic: 20/23 → 10/11, Temple: 20/23 → 5/6
+2026-02-27T01:05:48.288Z [ODDS]  Florida Atlantic: 10/11 → 20/23, Temple: 5/6 → 20/23
+2026-02-27T01:05:48.288Z [EVENT]  score: 44-45
+2026-02-27T01:09:28.689Z [ODDS]  Florida Atlantic: 20/23 → 10/11, Temple: 20/23 → 5/6
+2026-02-27T01:09:46.276Z [ODDS]  Florida Atlantic: 10/11 → 20/23, Temple: 5/6 → 20/23
+2026-02-27T01:10:28.670Z [ODDS]  Florida Atlantic: 20/23 → 10/11, Temple: 20/23 → 5/6
+2026-02-27T01:10:41.749Z [ODDS]  Florida Atlantic: 10/11 → 20/23, Temple: 5/6 → 20/23
+2026-02-27T01:10:53.475Z [EVENT]  score: 44-46
+2026-02-27T01:11:24.144Z [EVENT]  score: 46-46
+2026-02-27T01:11:42.212Z [EVENT]  score: 46-48
+2026-02-27T01:12:05.641Z [EVENT]  score: 48-48
+2026-02-27T01:12:20.971Z [EVENT]  score: 48-51
+2026-02-27T01:12:48.935Z [ODDS]  Florida Atlantic: 20/23 → 5/6, Temple: 20/23 → 10/11
+2026-02-27T01:16:46.615Z [ODDS]  Florida Atlantic: 5/6 → 20/23, Temple: 10/11 → 20/23
+2026-02-27T01:16:46.615Z [EVENT]  score: 49-51
+2026-02-27T01:17:00.144Z [EVENT]  score: 50-51
+2026-02-27T01:18:01.032Z [ODDS]  Florida Atlantic: 20/23 → 10/11, Temple: 20/23 → 5/6
+2026-02-27T01:18:01.032Z [EVENT]  score: 50-53
+2026-02-27T01:18:31.247Z [ODDS]  Florida Atlantic: 10/11 → 20/23, Temple: 5/6 → 20/23
+2026-02-27T01:18:31.247Z [EVENT]  score: 52-53
+2026-02-27T01:19:29.428Z [EVENT]  score: 52-55
+2026-02-27T01:20:13.624Z [ODDS]  Florida Atlantic: 20/23 → 10/11, Temple: 20/23 → 5/6
+2026-02-27T01:20:13.624Z [EVENT]  score: 52-56
+2026-02-27T01:20:14.077Z [ODDS]  Florida Atlantic: 10/11 → 5/6, Temple: 5/6 → 10/11
+2026-02-27T01:20:27.605Z [ODDS]  Florida Atlantic: 5/6 → 10/11, Temple: 10/11 → 5/6
+2026-02-27T01:20:27.605Z [EVENT]  score: 54-56
+2026-02-27T01:21:47.883Z [ODDS]  Florida Atlantic: 10/11 → 20/23, Temple: 5/6 → 20/23
+2026-02-27T01:23:27.555Z [ODDS]  Florida Atlantic: 20/23 → 5/6, Temple: 20/23 → 10/11
+2026-02-27T01:23:27.555Z [EVENT]  score: 54-58
+2026-02-27T01:23:39.732Z [ODDS]  Florida Atlantic: 5/6 → 20/23, Temple: 10/11 → 20/23
+2026-02-27T01:23:59.576Z [EVENT]  score: 54-59
+2026-02-27T01:24:00.026Z [ODDS]  Florida Atlantic: 20/23 → 10/11, Temple: 20/23 → 5/6
+2026-02-27T01:24:39.716Z [ODDS]  Florida Atlantic: 10/11 → 20/23, Temple: 5/6 → 20/23
+2026-02-27T01:28:16.652Z [EVENT]  score: 55-59
+2026-02-27T01:28:25.222Z [EVENT]  score: 56-59
+2026-02-27T01:28:41.910Z [ODDS]  Florida Atlantic: 20/23 → 10/11, Temple: 20/23 → 5/6
+2026-02-27T01:28:45.066Z [ODDS]  Florida Atlantic: 10/11 → 5/6, Temple: 5/6 → 10/11
+2026-02-27T01:28:45.066Z [EVENT]  score: 56-62
+2026-02-27T01:29:06.716Z [ODDS]  Florida Atlantic: 5/6 → 20/23, Temple: 10/11 → 20/23
+2026-02-27T01:29:35.128Z [ODDS]  Florida Atlantic: 20/23 → 5/6, Temple: 20/23 → 10/11
+2026-02-27T01:29:49.560Z [ODDS]  Florida Atlantic: 5/6 → 20/23, Temple: 10/11 → 20/23
+2026-02-27T01:30:04.443Z [ODDS]  Florida Atlantic: 20/23 → 10/11, Temple: 20/23 → 5/6
+2026-02-27T01:30:04.443Z [EVENT]  score: 56-64
+2026-02-27T01:30:41.876Z [ODDS]  Florida Atlantic: 10/11 → 5/6, Temple: 5/6 → 10/11
+2026-02-27T01:30:41.876Z [EVENT]  score: 56-66
+2026-02-27T01:30:51.863Z [ODDS]  Florida Atlantic: 5/6 → 20/23, Temple: 10/11 → 20/23
+2026-02-27T01:31:35.547Z [ODDS]  Florida Atlantic: 20/23 → 10/11, Temple: 20/23 → 5/6
+2026-02-27T01:31:35.547Z [EVENT]  score: 57-66
+2026-02-27T01:31:57.646Z [ODDS]  Florida Atlantic: 10/11 → 20/23, Temple: 5/6 → 20/23
+2026-02-27T01:32:08.019Z [ODDS]  Florida Atlantic: 20/23 → 5/6, Temple: 20/23 → 10/11
+2026-02-27T01:32:25.156Z [ODDS]  Florida Atlantic: 5/6 → 10/11, Temple: 10/11 → 5/6
+2026-02-27T01:32:45.000Z [ODDS]  Florida Atlantic: 10/11 → 20/23, Temple: 5/6 → 20/23
+2026-02-27T01:32:45.000Z [EVENT]  score: 57-67
+2026-02-27T01:32:58.982Z [EVENT]  score: 57-68
+2026-02-27T01:33:24.688Z [ODDS]  Florida Atlantic: 20/23 → 5/6, Temple: 20/23 → 10/11
+2026-02-27T01:33:24.688Z [EVENT]  score: 59-68
+2026-02-27T01:33:50.395Z [ODDS]  Florida Atlantic: 5/6 → 10/11, Temple: 10/11 → 5/6
+2026-02-27T01:33:50.395Z [EVENT]  score: 61-68
+2026-02-27T01:34:14.300Z [ODDS]  Florida Atlantic: 10/11 → 4/5, Temple: 5/6 → 20/21
+2026-02-27T01:34:50.833Z [ODDS]  Florida Atlantic: 4/5 → 5/6, Temple: 20/21 → 10/11
+2026-02-27T01:36:07.504Z [ODDS]  Florida Atlantic: 5/6 → 10/11, Temple: 10/11 → 5/6
+2026-02-27T01:36:07.504Z [EVENT]  score: 63-68
+2026-02-27T01:41:30.668Z [ODDS]  Florida Atlantic: 10/11 → 20/23, Temple: 5/6 → 20/23
+2026-02-27T01:41:30.668Z [EVENT]  score: 65-68
+2026-02-27T01:42:52.297Z [ODDS]  Florida Atlantic: 20/23 → 10/11, Temple: 20/23 → 5/6
+2026-02-27T01:42:52.297Z [EVENT]  score: 65-70
+2026-02-27T01:43:01.769Z [ODDS]  Florida Atlantic: 10/11 → 20/21, Temple: 5/6 → 4/5
+2026-02-27T01:43:21.162Z [ODDS]  Florida Atlantic: 20/21 → 20/23, Temple: 4/5 → 20/23
+2026-02-27T01:43:21.162Z [EVENT]  score: 67-70
+2026-02-27T01:43:46.872Z [ODDS]  Florida Atlantic: 20/23 → 10/11, Temple: 20/23 → 5/6
+2026-02-27T01:43:47.771Z [ODDS]  Florida Atlantic: 10/11 → 20/21, Temple: 5/6 → 4/5
+2026-02-27T01:43:47.771Z [EVENT]  score: 67-72
+2026-02-27T01:44:09.423Z [ODDS]  Florida Atlantic: 20/21 → 5/6, Temple: 4/5 → 10/11
+2026-02-27T01:44:42.345Z [ODDS]  Florida Atlantic: 5/6 → 1/1, Temple: 10/11 → 10/13
+2026-02-27T01:44:53.621Z [ODDS]  Florida Atlantic: 1/1 → 10/13, Temple: 10/13 → 1/1
+2026-02-27T01:44:54.071Z [ODDS]  Florida Atlantic: 10/13 → 5/6, Temple: 1/1 → 10/11
+2026-02-27T01:45:22.034Z [ODDS]  Florida Atlantic: 5/6 → 20/23, Temple: 10/11 → 20/23
+2026-02-27T01:45:25.642Z [ODDS]  Florida Atlantic: 20/23 → 10/13, Temple: 20/23 → 1/1
+2026-02-27T01:49:17.918Z [ODDS]  Florida Atlantic: 10/13 → 20/23, Temple: 1/1 → 20/23
+2026-02-27T01:49:44.075Z [ODDS]  Florida Atlantic: 20/23 → 10/11, Temple: 20/23 → 5/6
+2026-02-27T01:49:44.075Z [EVENT]  score: 68-72
+2026-02-27T01:49:54.898Z [ODDS]  Florida Atlantic: 10/11 → 4/5, Temple: 5/6 → 20/21
+2026-02-27T01:49:54.898Z [EVENT]  score: 69-72
+2026-02-27T01:50:28.726Z [ODDS]  Florida Atlantic: 4/5 → 20/23, Temple: 20/21 → 20/23
+2026-02-27T01:51:18.787Z [ODDS]  Florida Atlantic: 20/23 → 1/1, Temple: 20/23 → 10/13
+2026-02-27T01:51:18.787Z [EVENT]  score: 71-72
+2026-02-27T01:51:36.377Z [ODDS]  Florida Atlantic: 1/1 → 21/20, Temple: 10/13 → 20/27
+2026-02-27T01:51:41.338Z [ODDS]  Florida Atlantic: 21/20 → 1/1, Temple: 20/27 → 10/13
+2026-02-27T01:52:02.986Z [ODDS]  Florida Atlantic: 1/1 → 20/31, Temple: 10/13 → 61/50
+2026-02-27T01:52:02.987Z [EVENT]  score: 73-72
+2026-02-27T01:52:30.497Z [ODDS]  Florida Atlantic: 20/31 → 27/20, Temple: 61/50 → 10/17
+2026-02-27T01:53:03.579Z [ODDS]  Florida Atlantic: 27/20 → 61/50, Temple: 10/17 → 20/31
+2026-02-27T01:53:03.579Z [EVENT]  score: 73-73
+2026-02-27T01:53:22.973Z [ODDS]  Florida Atlantic: 61/50 → 21/20, Temple: 20/31 → 20/27
+2026-02-27T01:53:22.973Z [EVENT]  score: 73-74
+2026-02-27T01:53:38.307Z [ODDS]  Florida Atlantic: 21/20 → 11/10, Temple: 20/27 → 5/7
+2026-02-27T01:55:51.353Z [ODDS]  Florida Atlantic: 11/10 → 20/29, Temple: 5/7 → 23/20
+2026-02-27T01:56:22.021Z [ODDS]  Florida Atlantic: 20/29 → 4/6, Temple: 23/20 → 6/5
+2026-02-27T01:56:26.530Z [ODDS]  Florida Atlantic: 4/6 → 20/31, Temple: 6/5 → 61/50
+2026-02-27T01:56:29.238Z [ODDS]  Florida Atlantic: 20/31 → 20/23, Temple: 61/50 → 20/23
+2026-02-27T01:56:29.238Z [EVENT]  score: 73-76
+2026-02-27T01:57:01.709Z [ODDS]  Florida Atlantic: 20/23 → 10/13, Temple: 20/23 → 1/1
+2026-02-27T01:57:03.063Z [ODDS]  Florida Atlantic: 10/13 → 4/5, Temple: 1/1 → 20/21
+2026-02-27T01:57:05.768Z [ODDS]  Florida Atlantic: 4/5 → 5/6, Temple: 20/21 → 10/11
+2026-02-27T01:57:09.376Z [ODDS]  Florida Atlantic: 5/6 → 0/0, Temple: 10/11 → 0/0
+2026-02-27T01:57:40.046Z [ODDS]  Florida Atlantic: 0/0 → 20/23, Temple: 0/0 → 20/23
+2026-02-27T01:58:03.947Z [ODDS]  Florida Atlantic: 20/23 → 0/0, Temple: 20/23 → 0/0
+2026-02-27T01:58:12.968Z [EVENT]  score: 73-77
+2026-02-27T01:58:15.224Z [ODDS]  Florida Atlantic: 0/0 → 20/23, Temple: 0/0 → 20/23
+2026-02-27T01:58:20.638Z [ODDS]  Florida Atlantic: 20/23 → 0/0, Temple: 20/23 → 0/0

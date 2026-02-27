@@ -73,7 +73,7 @@ export interface Selection {
   id: string;
   odds: string; // fractional e.g. "9/2"
   oddsDecimal: number;
-  /** 0 = player1/home, 1 = player2/away, 2 = draw */
+  /** 0 = home/player1, 1 = draw (3-way) or player2 (2-way), 2 = away/player2 */
   position: number;
   suspended: boolean;
 }
@@ -617,7 +617,8 @@ export class StateManager {
               const oldOdds = sel.odds;
               sel.odds = f.OD;
               sel.oddsDecimal = fractionalToDecimal(f.OD);
-              const teamName = sel.position === 0 ? match.team1 : sel.position === 1 ? match.team2 : "Draw";
+              const isThreeWay = market.selections.length >= 3;
+              const teamName = sel.position === 0 ? match.team1 : sel.position === 1 ? (isThreeWay ? "Draw" : match.team2) : match.team2;
               changes.push(`${teamName}: ${oldOdds} → ${f.OD}`);
             }
             if (f.SU !== undefined) {
@@ -686,7 +687,7 @@ export function formatMatchSummary(m: SportMatch): string {
       const sorted = [...market.selections].sort((a, b) => a.position - b.position);
       if (sorted.length >= 3) {
         // 3-way market (1X2): home / draw / away
-        oddsStr = ` | ${sorted[0].odds} / ${sorted[2].odds} / ${sorted[1].odds}`;
+        oddsStr = ` | ${sorted[0].odds} / ${sorted[1].odds} / ${sorted[2].odds}`;
       } else {
         oddsStr = ` | ${sorted[0].odds} / ${sorted[1].odds}`;
       }

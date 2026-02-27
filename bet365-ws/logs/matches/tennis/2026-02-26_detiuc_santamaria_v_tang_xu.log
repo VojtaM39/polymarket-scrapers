@@ -1,0 +1,156 @@
+2026-02-26T23:10:12.184Z [EVENT] (serving: Detiuc/Santamaria)  serving: P1
+2026-02-26T23:15:11.658Z [ODDS] (serving: Detiuc/Santamaria)  Detiuc/Santamaria: 10/11 → 19/20, Tang/Xu: 10/11 → 4/5
+2026-02-26T23:15:11.658Z [EVENT] (serving: Detiuc/Santamaria)  game: 0-15
+2026-02-26T23:15:49.090Z [ODDS] (serving: Detiuc/Santamaria)  Detiuc/Santamaria: 19/20 → 10/11, Tang/Xu: 4/5 → 10/11
+2026-02-26T23:15:49.090Z [EVENT] (serving: Detiuc/Santamaria)  game: 15-15
+2026-02-26T23:16:10.285Z [ODDS] (serving: Detiuc/Santamaria)  Detiuc/Santamaria: 10/11 → 19/20, Tang/Xu: 10/11 → 4/5
+2026-02-26T23:16:23.815Z [ODDS] (serving: Detiuc/Santamaria)  Detiuc/Santamaria: 19/20 → 4/5, Tang/Xu: 4/5 → 19/20
+2026-02-26T23:16:23.815Z [EVENT] (serving: Detiuc/Santamaria)  game: 30-15
+2026-02-26T23:16:43.207Z [ODDS] (serving: Detiuc/Santamaria)  Detiuc/Santamaria: 4/5 → 3/4, Tang/Xu: 19/20 → 1/1
+2026-02-26T23:16:43.207Z [EVENT] (serving: Detiuc/Santamaria)  game: 40-15
+2026-02-26T23:17:04.412Z [ODDS] (serving: Tang/Xu)  Detiuc/Santamaria: 3/4 → 7/10, Tang/Xu: 1/1 → 21/20
+2026-02-26T23:17:04.412Z [EVENT] (serving: Tang/Xu)  sets: 1-0, game: 0-0, serving: P2
+2026-02-26T23:18:09.801Z [ODDS] (serving: Tang/Xu)  Detiuc/Santamaria: 7/10 → 4/5, Tang/Xu: 21/20 → 19/20
+2026-02-26T23:18:09.801Z [EVENT] (serving: Tang/Xu)  game: 0-15
+2026-02-26T23:18:35.508Z [EVENT] (serving: Tang/Xu)  game: 0-30
+2026-02-26T23:18:56.707Z [ODDS] (serving: Tang/Xu)  Detiuc/Santamaria: 4/5 → 10/11, Tang/Xu: 19/20 → 10/11
+2026-02-26T23:18:56.707Z [EVENT] (serving: Tang/Xu)  game: 0-40
+2026-02-26T23:19:24.218Z [EVENT] (serving: Detiuc/Santamaria)  sets: 1-1, game: 0-0, serving: P1
+2026-02-26T23:20:00.748Z [ODDS] (serving: Detiuc/Santamaria)  Detiuc/Santamaria: 10/11 → 19/20, Tang/Xu: 10/11 → 4/5
+2026-02-26T23:20:09.317Z [EVENT] (serving: Detiuc/Santamaria)  game: 0-15
+2026-02-26T23:20:28.259Z [ODDS] (serving: Detiuc/Santamaria)  Detiuc/Santamaria: 19/20 → 21/20, Tang/Xu: 4/5 → 7/10
+2026-02-26T23:20:28.259Z [EVENT] (serving: Detiuc/Santamaria)  game: 0-30
+2026-02-26T23:21:02.084Z [ODDS] (serving: Detiuc/Santamaria)  Detiuc/Santamaria: 21/20 → 11/10, Tang/Xu: 7/10 → 4/6
+2026-02-26T23:21:02.084Z [EVENT] (serving: Detiuc/Santamaria)  game: 0-40
+2026-02-26T23:21:30.949Z [ODDS] (serving: Tang/Xu)  Detiuc/Santamaria: 11/10 → 6/5, Tang/Xu: 4/6 → 8/13
+2026-02-26T23:21:30.949Z [EVENT] (serving: Tang/Xu)  sets: 1-2, game: 0-0, serving: P2
+2026-02-26T23:23:31.367Z [ODDS] (serving: Tang/Xu)  Detiuc/Santamaria: 6/5 → 5/4, Tang/Xu: 8/13 → 4/7
+2026-02-26T23:23:31.367Z [EVENT] (serving: Tang/Xu)  game: 0-15
+2026-02-26T23:24:11.982Z [ODDS] (serving: Tang/Xu)  Detiuc/Santamaria: 5/4 → 6/5, Tang/Xu: 4/7 → 8/13
+2026-02-26T23:24:11.982Z [EVENT] (serving: Tang/Xu)  game: 15-15
+2026-02-26T23:24:40.374Z [ODDS] (serving: Tang/Xu)  Detiuc/Santamaria: 6/5 → 5/4, Tang/Xu: 8/13 → 4/7
+2026-02-26T23:24:40.374Z [EVENT] (serving: Tang/Xu)  game: 15-30
+2026-02-26T23:25:20.965Z [ODDS] (serving: Tang/Xu)  Detiuc/Santamaria: 5/4 → 11/8, Tang/Xu: 4/7 → 8/15
+2026-02-26T23:25:20.966Z [EVENT] (serving: Tang/Xu)  game: 15-40
+2026-02-26T23:25:52.537Z [ODDS] (serving: Detiuc/Santamaria)  Detiuc/Santamaria: 11/8 → 6/4, Tang/Xu: 8/15 → 1/2
+2026-02-26T23:25:52.538Z [EVENT] (serving: Detiuc/Santamaria)  sets: 1-3, game: 0-0, serving: P1
+2026-02-26T23:26:28.167Z [ODDS] (serving: Detiuc/Santamaria)  Detiuc/Santamaria: 6/4 → 11/8, Tang/Xu: 1/2 → 8/15
+2026-02-26T23:26:28.169Z [EVENT] (serving: Detiuc/Santamaria)  game: 15-0
+2026-02-26T23:26:53.422Z [EVENT] (serving: Detiuc/Santamaria)  game: 30-0
+2026-02-26T23:27:15.068Z [EVENT] (serving: Detiuc/Santamaria)  game: 30-15
+2026-02-26T23:27:47.548Z [EVENT] (serving: Detiuc/Santamaria)  game: 40-15
+2026-02-26T23:28:20.464Z [ODDS] (serving: Tang/Xu)  Detiuc/Santamaria: 11/8 → 5/4, Tang/Xu: 8/15 → 4/7
+2026-02-26T23:28:20.464Z [EVENT] (serving: Tang/Xu)  sets: 2-3, game: 0-0, serving: P2
+2026-02-26T23:30:25.391Z [ODDS] (serving: Tang/Xu)  Detiuc/Santamaria: 5/4 → 11/10, Tang/Xu: 4/7 → 4/6
+2026-02-26T23:30:25.391Z [EVENT] (serving: Tang/Xu)  game: 15-0
+2026-02-26T23:30:56.060Z [ODDS] (serving: Tang/Xu)  Detiuc/Santamaria: 11/10 → 1/1, Tang/Xu: 4/6 → 3/4
+2026-02-26T23:30:56.060Z [EVENT] (serving: Tang/Xu)  game: 30-0
+2026-02-26T23:31:20.866Z [ODDS] (serving: Tang/Xu)  Detiuc/Santamaria: 1/1 → 11/10, Tang/Xu: 3/4 → 4/6
+2026-02-26T23:31:20.866Z [EVENT] (serving: Tang/Xu)  game: 30-15
+2026-02-26T23:31:46.594Z [ODDS] (serving: Tang/Xu)  Detiuc/Santamaria: 11/10 → 21/20, Tang/Xu: 4/6 → 7/10
+2026-02-26T23:32:01.455Z [ODDS] (serving: Tang/Xu)  Detiuc/Santamaria: 21/20 → 6/5, Tang/Xu: 7/10 → 8/13
+2026-02-26T23:32:01.455Z [EVENT] (serving: Tang/Xu)  game: 30-30
+2026-02-26T23:32:28.966Z [ODDS] (serving: Tang/Xu)  Detiuc/Santamaria: 6/5 → 11/8, Tang/Xu: 8/13 → 8/15
+2026-02-26T23:32:28.967Z [EVENT] (serving: Tang/Xu)  game: 30-40
+2026-02-26T23:33:02.099Z [ODDS] (serving: Detiuc/Santamaria)  Detiuc/Santamaria: 11/8 → 13/8, Tang/Xu: 8/15 → 4/9
+2026-02-26T23:33:02.099Z [EVENT] (serving: Detiuc/Santamaria)  sets: 2-4, game: 0-0, serving: P1
+2026-02-26T23:33:42.932Z [EVENT] (serving: Detiuc/Santamaria)  game: 15-0
+2026-02-26T23:34:16.378Z [EVENT] (serving: Detiuc/Santamaria)  game: 15-15
+2026-02-26T23:34:46.524Z [EVENT] (serving: Detiuc/Santamaria)  game: 30-15
+2026-02-26T23:35:20.801Z [ODDS] (serving: Detiuc/Santamaria)  Detiuc/Santamaria: 13/8 → 6/4, Tang/Xu: 4/9 → 1/2
+2026-02-26T23:35:20.801Z [EVENT] (serving: Detiuc/Santamaria)  game: 40-15
+2026-02-26T23:35:55.527Z [ODDS] (serving: Detiuc/Santamaria)  Detiuc/Santamaria: 6/4 → 13/8, Tang/Xu: 1/2 → 4/9
+2026-02-26T23:35:55.527Z [EVENT] (serving: Detiuc/Santamaria)  game: 40-30
+2026-02-26T23:36:33.861Z [ODDS] (serving: Tang/Xu)  Detiuc/Santamaria: 13/8 → 6/4, Tang/Xu: 4/9 → 1/2
+2026-02-26T23:36:33.861Z [EVENT] (serving: Tang/Xu)  sets: 3-4, game: 0-0, serving: P2
+2026-02-26T23:38:36.454Z [ODDS] (serving: Tang/Xu)  Detiuc/Santamaria: 6/4 → 13/8, Tang/Xu: 1/2 → 4/9
+2026-02-26T23:38:36.454Z [EVENT] (serving: Tang/Xu)  game: 0-15
+2026-02-26T23:39:11.632Z [ODDS] (serving: Tang/Xu)  Detiuc/Santamaria: 13/8 → 11/8, Tang/Xu: 4/9 → 8/15
+2026-02-26T23:39:11.632Z [EVENT] (serving: Tang/Xu)  game: 15-15
+2026-02-26T23:39:40.951Z [ODDS] (serving: Tang/Xu)  Detiuc/Santamaria: 11/8 → 13/8, Tang/Xu: 8/15 → 4/9
+2026-02-26T23:39:40.951Z [EVENT] (serving: Tang/Xu)  game: 15-30
+2026-02-26T23:40:09.811Z [ODDS] (serving: Tang/Xu)  Detiuc/Santamaria: 13/8 → 7/4, Tang/Xu: 4/9 → 2/5
+2026-02-26T23:40:09.811Z [EVENT] (serving: Tang/Xu)  game: 15-40
+2026-02-26T23:40:41.381Z [ODDS] (serving: Tang/Xu)  Detiuc/Santamaria: 7/4 → 13/8, Tang/Xu: 2/5 → 4/9
+2026-02-26T23:40:41.381Z [EVENT] (serving: Tang/Xu)  game: 30-40
+2026-02-26T23:41:16.107Z [ODDS] (serving: Tang/Xu)  Detiuc/Santamaria: 13/8 → 6/4, Tang/Xu: 4/9 → 1/2
+2026-02-26T23:41:34.609Z [ODDS] (serving: Detiuc/Santamaria)  Detiuc/Santamaria: 6/4 → 7/4, Tang/Xu: 1/2 → 2/5
+2026-02-26T23:41:34.609Z [EVENT] (serving: Detiuc/Santamaria)  sets: 3-5, game: 0-0, serving: P1
+2026-02-26T23:42:14.737Z [EVENT] (serving: Detiuc/Santamaria)  game: 15-0
+2026-02-26T23:42:46.759Z [ODDS] (serving: Detiuc/Santamaria)  Detiuc/Santamaria: 7/4 → 2/1, Tang/Xu: 2/5 → 4/11
+2026-02-26T23:42:46.759Z [EVENT] (serving: Detiuc/Santamaria)  game: 15-15
+2026-02-26T23:43:16.525Z [ODDS] (serving: Detiuc/Santamaria)  Detiuc/Santamaria: 2/1 → 9/4, Tang/Xu: 4/11 → 1/3
+2026-02-26T23:43:16.526Z [EVENT] (serving: Detiuc/Santamaria)  game: 15-30
+2026-02-26T23:43:48.550Z [ODDS] (serving: Detiuc/Santamaria)  Detiuc/Santamaria: 9/4 → 12/5, Tang/Xu: 1/3 → 3/10
+2026-02-26T23:43:48.550Z [EVENT] (serving: Detiuc/Santamaria)  game: 15-40
+2026-02-26T23:44:13.803Z [ODDS] (serving: Detiuc/Santamaria)  Detiuc/Santamaria: 12/5 → 9/4, Tang/Xu: 3/10 → 1/3
+2026-02-26T23:44:13.803Z [EVENT] (serving: Detiuc/Santamaria)  game: 30-40
+2026-02-26T23:44:42.216Z [ODDS] (serving: Detiuc/Santamaria)  Detiuc/Santamaria: 9/4 → 2/1, Tang/Xu: 1/3 → 4/11
+2026-02-26T23:44:42.216Z [EVENT] (serving: Detiuc/Santamaria)  game: 40-40
+2026-02-26T23:45:06.568Z [ODDS] (serving: Tang/Xu)  Detiuc/Santamaria: 2/1 → 7/4, Tang/Xu: 4/11 → 2/5
+2026-02-26T23:45:06.568Z [EVENT] (serving: Tang/Xu)  sets: 4-5, game: 0-0, serving: P2
+2026-02-26T23:47:17.357Z [ODDS] (serving: Tang/Xu)  Detiuc/Santamaria: 7/4 → 2/1, Tang/Xu: 2/5 → 4/11
+2026-02-26T23:47:17.357Z [EVENT] (serving: Tang/Xu)  game: 0-15
+2026-02-26T23:47:39.459Z [ODDS] (serving: Tang/Xu)  Detiuc/Santamaria: 2/1 → 7/4, Tang/Xu: 4/11 → 2/5
+2026-02-26T23:47:55.693Z [ODDS] (serving: Tang/Xu)  Detiuc/Santamaria: 7/4 → 12/5, Tang/Xu: 2/5 → 3/10
+2026-02-26T23:47:55.693Z [EVENT] (serving: Tang/Xu)  game: 0-30
+2026-02-26T23:48:22.758Z [ODDS] (serving: Tang/Xu)  Detiuc/Santamaria: 12/5 → 5/2, Tang/Xu: 3/10 → 2/7
+2026-02-26T23:48:22.758Z [EVENT] (serving: Tang/Xu)  game: 0-40
+2026-02-26T23:48:52.524Z [ODDS] (serving: Tang/Xu)  Detiuc/Santamaria: 5/2 → 12/5, Tang/Xu: 2/7 → 3/10
+2026-02-26T23:48:52.524Z [EVENT] (serving: Tang/Xu)  game: 15-40
+2026-02-26T23:49:18.232Z [ODDS] (serving: Detiuc/Santamaria)  Detiuc/Santamaria: 12/5 → 11/4, Tang/Xu: 3/10 → 1/4
+2026-02-26T23:49:18.232Z [EVENT] (serving: Detiuc/Santamaria)  sets: 4-6,0-0, game: 0-0, serving: P1
+2026-02-26T23:51:51.571Z [ODDS] (serving: Detiuc/Santamaria)  Detiuc/Santamaria: 11/4 → 5/2, Tang/Xu: 1/4 → 2/7
+2026-02-26T23:51:51.571Z [EVENT] (serving: Detiuc/Santamaria)  game: 15-0
+2026-02-26T23:52:29.471Z [ODDS] (serving: Detiuc/Santamaria)  Detiuc/Santamaria: 5/2 → 11/4, Tang/Xu: 2/7 → 1/4
+2026-02-26T23:52:29.471Z [EVENT] (serving: Detiuc/Santamaria)  game: 15-15
+2026-02-26T23:53:01.042Z [ODDS] (serving: Detiuc/Santamaria)  Detiuc/Santamaria: 11/4 → 3/1, Tang/Xu: 1/4 → 2/9
+2026-02-26T23:53:01.042Z [EVENT] (serving: Detiuc/Santamaria)  game: 15-30
+2026-02-26T23:53:27.199Z [ODDS] (serving: Detiuc/Santamaria)  Detiuc/Santamaria: 3/1 → 4/1, Tang/Xu: 2/9 → 1/6
+2026-02-26T23:53:27.199Z [EVENT] (serving: Detiuc/Santamaria)  game: 15-40
+2026-02-26T23:53:59.220Z [ODDS] (serving: Detiuc/Santamaria)  Detiuc/Santamaria: 4/1 → 10/3, Tang/Xu: 1/6 → 1/5
+2026-02-26T23:53:59.220Z [EVENT] (serving: Detiuc/Santamaria)  game: 30-40
+2026-02-26T23:54:18.614Z [ODDS] (serving: Detiuc/Santamaria)  Detiuc/Santamaria: 10/3 → 7/2, Tang/Xu: 1/5 → 2/11
+2026-02-26T23:54:31.241Z [ODDS] (serving: Detiuc/Santamaria)  Detiuc/Santamaria: 7/2 → 11/4, Tang/Xu: 2/11 → 1/4
+2026-02-26T23:54:31.241Z [EVENT] (serving: Detiuc/Santamaria)  game: 40-40
+2026-02-26T23:54:57.849Z [ODDS] (serving: Detiuc/Santamaria)  Detiuc/Santamaria: 11/4 → 3/1, Tang/Xu: 1/4 → 2/9
+2026-02-26T23:55:15.438Z [ODDS] (serving: Tang/Xu)  Detiuc/Santamaria: 3/1 → 9/2, Tang/Xu: 2/9 → 1/7
+2026-02-26T23:55:15.438Z [EVENT] (serving: Tang/Xu)  sets: 4-6,0-1, game: 0-0, serving: P2
+2026-02-26T23:56:42.128Z [ODDS] (serving: Tang/Xu)  Detiuc/Santamaria: 9/2 → 5/1, Tang/Xu: 1/7 → 1/8
+2026-02-26T23:56:42.128Z [EVENT] (serving: Tang/Xu)  game: 0-15
+2026-02-26T23:57:22.718Z [ODDS] (serving: Tang/Xu)  Detiuc/Santamaria: 5/1 → 9/2, Tang/Xu: 1/8 → 1/7
+2026-02-26T23:57:22.718Z [EVENT] (serving: Tang/Xu)  game: 15-15
+2026-02-26T23:57:47.523Z [ODDS] (serving: Tang/Xu)  Detiuc/Santamaria: 9/2 → 5/1, Tang/Xu: 1/7 → 1/8
+2026-02-26T23:57:47.523Z [EVENT] (serving: Tang/Xu)  game: 15-30
+2026-02-26T23:58:11.976Z [ODDS] (serving: Tang/Xu)  Detiuc/Santamaria: 5/1 → 9/2, Tang/Xu: 1/8 → 1/7
+2026-02-26T23:58:11.976Z [EVENT] (serving: Tang/Xu)  game: 30-30
+2026-02-26T23:58:39.840Z [ODDS] (serving: Tang/Xu)  Detiuc/Santamaria: 9/2 → 5/1, Tang/Xu: 1/7 → 1/8
+2026-02-26T23:58:39.840Z [EVENT] (serving: Tang/Xu)  game: 30-40
+2026-02-26T23:59:00.207Z [ODDS] (serving: Tang/Xu)  Detiuc/Santamaria: 5/1 → 9/2, Tang/Xu: 1/8 → 1/7
+2026-02-26T23:59:10.983Z [ODDS] (serving: Detiuc/Santamaria)  Detiuc/Santamaria: 9/2 → 6/1, Tang/Xu: 1/7 → 1/10
+2026-02-26T23:59:10.983Z [EVENT] (serving: Detiuc/Santamaria)  sets: 4-6,0-2, game: 0-0, serving: P1
+2026-02-26T23:59:52.451Z [ODDS] (serving: Detiuc/Santamaria)  Detiuc/Santamaria: 6/1 → 7/1, Tang/Xu: 1/10 → 1/12
+2026-02-26T23:59:52.451Z [EVENT] (serving: Detiuc/Santamaria)  game: 0-15
+2026-02-27T00:00:16.804Z [ODDS] (serving: Detiuc/Santamaria)  Detiuc/Santamaria: 7/1 → 8/1, Tang/Xu: 1/12 → 1/14
+2026-02-27T00:00:31.687Z [ODDS] (serving: Detiuc/Santamaria)  Detiuc/Santamaria: 8/1 → 9/1, Tang/Xu: 1/14 → 1/16
+2026-02-27T00:00:31.687Z [EVENT] (serving: Detiuc/Santamaria)  game: 0-30
+2026-02-27T00:00:57.395Z [ODDS] (serving: Detiuc/Santamaria)  Detiuc/Santamaria: 9/1 → 10/1, Tang/Xu: 1/16 → 1/20
+2026-02-27T00:01:09.121Z [ODDS] (serving: Detiuc/Santamaria)  Detiuc/Santamaria: 10/1 → 8/1, Tang/Xu: 1/20 → 1/14
+2026-02-27T00:01:09.121Z [EVENT] (serving: Detiuc/Santamaria)  game: 15-30
+2026-02-27T00:01:50.162Z [ODDS] (serving: Detiuc/Santamaria)  Detiuc/Santamaria: 8/1 → 6/1, Tang/Xu: 1/14 → 1/10
+2026-02-27T00:01:50.162Z [EVENT] (serving: Detiuc/Santamaria)  game: 30-30
+2026-02-27T00:02:17.674Z [ODDS] (serving: Detiuc/Santamaria)  Detiuc/Santamaria: 6/1 → 7/1, Tang/Xu: 1/10 → 1/12
+2026-02-27T00:02:46.086Z [ODDS] (serving: Detiuc/Santamaria)  Detiuc/Santamaria: 7/1 → 9/1, Tang/Xu: 1/12 → 1/16
+2026-02-27T00:02:46.086Z [EVENT] (serving: Detiuc/Santamaria)  game: 30-40
+2026-02-27T00:03:39.758Z [ODDS] (serving: Tang/Xu)  Detiuc/Santamaria: 9/1 → 12/1, Tang/Xu: 1/16 → 1/25
+2026-02-27T00:03:39.758Z [EVENT] (serving: Tang/Xu)  sets: 4-6,0-3, game: 0-0, serving: P2
+2026-02-27T00:05:39.275Z [ODDS] (serving: Tang/Xu)  Detiuc/Santamaria: 12/1 → 10/1, Tang/Xu: 1/25 → 1/20
+2026-02-27T00:05:39.275Z [EVENT] (serving: Tang/Xu)  game: 15-0
+2026-02-27T00:06:13.101Z [ODDS] (serving: Tang/Xu)  Detiuc/Santamaria: 10/1 → 9/1, Tang/Xu: 1/20 → 1/16
+2026-02-27T00:06:13.101Z [EVENT] (serving: Tang/Xu)  game: 30-0
+2026-02-27T00:06:36.574Z [ODDS] (serving: Tang/Xu)  Detiuc/Santamaria: 9/1 → 10/1, Tang/Xu: 1/16 → 1/20
+2026-02-27T00:06:36.574Z [EVENT] (serving: Tang/Xu)  game: 30-15
+2026-02-27T00:07:03.165Z [ODDS] (serving: Tang/Xu)  Detiuc/Santamaria: 10/1 → 12/1, Tang/Xu: 1/20 → 1/25
+2026-02-27T00:07:03.165Z [EVENT] (serving: Tang/Xu)  game: 30-30
+2026-02-27T00:07:40.594Z [ODDS] (serving: Tang/Xu)  Detiuc/Santamaria: 12/1 → 14/1, Tang/Xu: 1/25 → 1/33
+2026-02-27T00:07:40.594Z [EVENT] (serving: Tang/Xu)  game: 30-40
